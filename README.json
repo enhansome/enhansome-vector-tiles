@@ -28,7 +28,7 @@
             "last_commit": "2026-03-30T15:51:22Z",
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1123
+            "stars": 1125
           }
         },
         {
@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:28:42Z",
+            "last_commit": "2026-08-13T14:47:23Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12373
+            "stars": 12372
           }
         },
         {
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:27:12Z",
+            "last_commit": "2026-08-13T08:29:34Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11326
+            "stars": 11333
           }
         },
         {
@@ -443,7 +443,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T13:54:41Z",
+            "last_commit": "2026-08-13T13:45:06Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2604
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-11T08:32:35Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2135
+            "stars": 2136
           }
         },
         {
@@ -589,7 +589,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:20:12Z",
+            "last_commit": "2026-08-13T16:42:56Z",
             "owner": "felt",
             "repo": "tippecanoe",
             "stars": 1582
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T11:43:21Z",
+            "last_commit": "2026-08-13T12:37:54Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
             "stars": 1084
@@ -904,7 +904,7 @@
             "last_commit": "2026-08-11T11:01:06Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3823
+            "stars": 3825
           }
         },
         {
@@ -1265,7 +1265,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T05:59:13Z",
+            "last_commit": "2026-08-13T10:31:47Z",
             "owner": "dechristopher",
             "repo": "lod",
             "stars": 24
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:03.615Z",
+    "last_updated": "2026-08-13T19:35:15.310Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
