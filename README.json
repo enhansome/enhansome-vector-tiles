@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:47:23Z",
+            "last_commit": "2026-08-14T09:42:43Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12372
+            "stars": 12374
           }
         },
         {
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:29:34Z",
+            "last_commit": "2026-08-14T08:31:44Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11333
+            "stars": 11344
           }
         },
         {
@@ -443,7 +443,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:45:06Z",
+            "last_commit": "2026-08-14T14:04:20Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2604
@@ -561,7 +561,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T08:32:35Z",
+            "last_commit": "2026-08-13T19:50:40Z",
             "owner": "onthegomap",
             "repo": "planetiler",
             "stars": 2136
@@ -578,7 +578,7 @@
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1878
+            "stars": 1880
           }
         },
         {
@@ -589,7 +589,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T16:42:56Z",
+            "last_commit": "2026-08-14T04:27:09Z",
             "owner": "felt",
             "repo": "tippecanoe",
             "stars": 1582
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-28T03:01:10Z",
+            "last_commit": "2026-08-14T13:47:32Z",
             "owner": "muimsd",
             "repo": "tilefeed",
             "stars": 7
@@ -904,7 +904,7 @@
             "last_commit": "2026-08-11T11:01:06Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3825
+            "stars": 3828
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2878
+            "stars": 2880
           }
         },
         {
@@ -1265,7 +1265,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T10:31:47Z",
+            "last_commit": "2026-08-14T04:02:16Z",
             "owner": "dechristopher",
             "repo": "lod",
             "stars": 24
@@ -1418,7 +1418,7 @@
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1878
+            "stars": 1880
           }
         },
         {
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:35:15.310Z",
+    "last_updated": "2026-08-14T19:29:45.974Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
