@@ -28,7 +28,7 @@
             "last_commit": "2026-03-30T15:51:22Z",
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1125
+            "stars": 1126
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-14T09:42:43Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12374
+            "stars": 12377
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-14T08:31:44Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11344
+            "stars": 11353
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-02-08T03:24:49Z",
             "owner": "tangrams",
             "repo": "tangram",
-            "stars": 2332
+            "stars": 2333
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2025-03-13T15:53:26Z",
             "owner": "kosmtik",
             "repo": "kosmtik",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -541,7 +541,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-25T12:52:42Z",
+            "last_commit": "2026-08-15T12:52:42Z",
             "owner": "navidnabavi",
             "repo": "styl",
             "stars": 38
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-13T19:50:40Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2136
+            "stars": 2137
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1880
+            "stars": 1881
           }
         },
         {
@@ -901,10 +901,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T11:01:06Z",
+            "last_commit": "2026-08-15T11:50:06Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3828
+            "stars": 3830
           }
         },
         {
@@ -932,7 +932,7 @@
             "last_commit": "2026-08-10T23:14:17Z",
             "owner": "go-spatial",
             "repo": "tegola",
-            "stars": 1498
+            "stars": 1499
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1880
+            "stars": 1881
           }
         },
         {
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:29:45.974Z",
+    "last_updated": "2026-08-15T18:57:05.681Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
