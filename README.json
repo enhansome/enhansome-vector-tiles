@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T09:42:43Z",
+            "last_commit": "2026-08-17T12:48:29Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12379
+            "stars": 12380
           }
         },
         {
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T13:44:23Z",
+            "last_commit": "2026-08-17T10:07:12Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11358
+            "stars": 11364
           }
         },
         {
@@ -443,10 +443,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:04:20Z",
+            "last_commit": "2026-08-17T18:07:50Z",
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2603
+            "stars": 2604
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-13T19:50:40Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2141
+            "stars": 2142
           }
         },
         {
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:37:54Z",
+            "last_commit": "2026-08-17T07:53:26Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
             "stars": 1084
@@ -904,7 +904,7 @@
             "last_commit": "2026-08-15T11:50:06Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3832
+            "stars": 3834
           }
         },
         {
@@ -1195,7 +1195,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T18:44:35Z",
+            "last_commit": "2026-08-17T18:46:05Z",
             "owner": "mvt-proj",
             "repo": "mvt-rs",
             "stars": 46
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:56:42.711Z",
+    "last_updated": "2026-08-17T19:08:10.166Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
