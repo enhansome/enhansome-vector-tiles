@@ -366,7 +366,7 @@
             "last_commit": "2026-08-18T22:23:08Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11381
+            "stars": 11382
           }
         },
         {
@@ -588,7 +588,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-19T12:56:56Z",
+            "last_commit": "2026-08-19T15:18:15Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:46:57Z",
+            "last_commit": "2026-08-19T13:43:51Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2605
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-14T04:27:09Z",
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1583
+            "stars": 1584
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2880
+            "stars": 2881
           }
         },
         {
@@ -1730,7 +1730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:26.612Z",
+    "last_updated": "2026-08-19T19:03:18.289Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_id": 41861984,
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
