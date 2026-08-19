@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27469126,
             "language": "JavaScript",
             "last_commit": "2026-07-02T09:09:20Z",
             "owner": "mapbox",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54856356,
             "language": "Go",
             "last_commit": "2026-03-30T15:51:22Z",
             "owner": "paulmach",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9403933,
             "language": "C++",
             "last_commit": "2026-04-13T23:07:34Z",
             "owner": "mapbox",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084114,
             "language": "C++",
             "last_commit": "2026-07-27T09:03:36Z",
             "owner": "mapnik",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18715334,
             "language": "JavaScript",
             "last_commit": "2026-06-24T10:28:32Z",
             "owner": "mapbox",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26827282,
             "language": "Python",
             "last_commit": "2025-07-08T02:21:05Z",
             "owner": "tilezen",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20247390,
             "language": "Java",
             "last_commit": "2025-01-15T14:09:51Z",
             "owner": "ElectronicChartCentre",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62918737,
             "language": "Java",
             "last_commit": "2022-10-04T23:32:57Z",
             "owner": "wdtinc",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38310808,
             "language": "C#",
             "last_commit": "2026-04-24T08:27:54Z",
             "owner": "bertt",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8632096,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:19:50Z",
             "owner": "mapbox",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73510867,
             "language": "CoffeeScript",
             "last_commit": "2019-11-06T00:39:52Z",
             "owner": "rastapasta",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70201326,
             "language": "C#",
             "last_commit": "2026-06-29T15:24:28Z",
             "owner": "mapbox",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8805076,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:19:29Z",
             "owner": "mapbox",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254060497,
             "language": "Python",
             "last_commit": "2021-04-20T19:48:10Z",
             "owner": "geometalab",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66118632,
             "language": "C++",
             "last_commit": "2026-05-04T10:38:54Z",
             "owner": "TimSC",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18731142,
             "language": "Python",
             "last_commit": "2018-12-17T23:00:50Z",
             "owner": "mapbox",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337191414,
             "language": "Dart",
             "last_commit": "2026-03-28T17:46:49Z",
             "owner": "bahung1221",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479349337,
             "language": "Python",
             "last_commit": "2026-03-02T14:01:37Z",
             "owner": "DenysMoskalenko",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77562149,
             "language": "Swift",
             "last_commit": "2021-01-17T15:15:23Z",
             "owner": "manimaul",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66093677,
             "language": "JavaScript",
             "last_commit": "2016-08-19T16:21:10Z",
             "owner": "developmentseed",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556105367,
             "language": "PHP",
             "last_commit": "2026-05-01T06:38:42Z",
             "owner": "heymoon-cc",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1068284836,
             "language": "Dart",
             "last_commit": "2025-11-08T17:27:19Z",
             "owner": "landyrev",
@@ -315,7 +337,7 @@
       "title": "Parsers & Generators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -324,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8629417,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:00:06Z",
+            "last_commit": "2026-08-19T10:59:34Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12382
+            "stars": 12384
           }
         },
         {
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:35:30Z",
+            "last_commit": "2026-08-18T22:23:08Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11375
+            "stars": 11381
           }
         },
         {
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16286131,
             "language": "C++",
             "last_commit": "2023-07-27T10:31:03Z",
             "owner": "mapbox",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13203894,
             "language": "JavaScript",
             "last_commit": "2026-02-08T03:24:49Z",
             "owner": "tangrams",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23391501,
             "language": "C++",
             "last_commit": "2024-01-08T08:50:14Z",
             "owner": "tangrams",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3139032,
             "language": "C++",
             "last_commit": "2026-07-31T00:23:58Z",
             "owner": "mousebird-consulting-inc",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23976871,
             "language": "JavaScript",
             "last_commit": "2021-10-24T12:30:49Z",
             "owner": "SpatialServer",
@@ -422,18 +451,214 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60150702,
             "language": "C",
             "last_commit": "2026-01-05T11:05:19Z",
             "owner": "CartoDB",
             "repo": "mobile-sdk",
             "stars": 201
           }
+        },
+        {
+          "node_type": "item",
+          "title": "mapscii",
+          "description": "A Vector Tile to Braille and ASCII renderer for xterm-compatible terminals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68485692,
+            "language": "JavaScript",
+            "last_commit": "2024-11-03T16:02:52Z",
+            "owner": "rastapasta",
+            "repo": "mapscii",
+            "stars": 9222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-mapbox-gl",
+          "description": "Render Mapbox GL maps from React applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34629135,
+            "language": "Java",
+            "last_commit": "2023-03-18T11:22:11Z",
+            "owner": "nitaliano",
+            "repo": "react-native-mapbox-gl",
+            "stars": 2169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTowns",
+          "description": "Three.js based JavaScript library for visualizing 2D vector, raster and 3D geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43068275,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T18:41:53Z",
+            "owner": "iTowns",
+            "repo": "itowns",
+            "stars": 1263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leaflet.VectorGrid",
+          "description": "Display gridded vector data (sliced GeoJSON, TopoJSON or Mapbox Vector Tiles) in Leaflet 1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53418430,
+            "language": "JavaScript",
+            "last_commit": "2025-01-09T18:01:02Z",
+            "owner": "Leaflet",
+            "repo": "Leaflet.VectorGrid",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapbox-gl-leaflet",
+          "description": "Create Mapbox GL layers in Leaflet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21214930,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T19:59:00Z",
+            "owner": "mapbox",
+            "repo": "mapbox-gl-leaflet",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliFlux VectorTileRenderer",
+          "description": "A highly customizable vector tile renderer built using C# for .Net platform. Comes with bindings for Mapsui and Gmap.Net components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129521660,
+            "language": "C#",
+            "last_commit": "2022-06-22T16:12:00Z",
+            "owner": "AliFlux",
+            "repo": "VectorTileRenderer",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapbox-vector-tiles-basic-js-renderer",
+          "description": "A fork of mapbox-gl-js giving you full control over rendering of specific tiles, also provides vector tile overlay for google maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118025375,
+            "language": "JavaScript",
+            "last_commit": "2023-06-19T15:55:29Z",
+            "owner": "landtechnologies",
+            "repo": "Mapbox-vector-tiles-basic-js-renderer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hoverboard",
+          "description": "Render vector tiles on canvas with Leaflet 0.7.x (supports GeoJSON, TopoJSON, and protobuf) :warning: no longer maintained",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27337543,
+            "language": "JavaScript",
+            "last_commit": "2025-12-18T21:37:06Z",
+            "owner": "summer4096",
+            "repo": "hoverboard",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImmersiveMap",
+          "description": "A Metal-rendered Mapbox Vector Tile map engine for SwiftUI with a 3D globe and flat map, for iOS and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249253355,
+            "language": "Swift",
+            "last_commit": "2026-08-19T12:56:56Z",
+            "owner": "artembobkin",
+            "repo": "ImmersiveMap",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QtPBFImagePlugin",
+          "description": "Qt image plugin for displaying Mapbox vector tiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155124614,
+            "language": "C++",
+            "last_commit": "2025-10-27T05:08:04Z",
+            "owner": "tumic0",
+            "repo": "QtPBFImagePlugin",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial Mapbox GL Native bindings for Qt QML",
+          "description": "Qt QML bindings for Qt 5.6 and higher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103438297,
+            "language": "C++",
+            "last_commit": "2026-07-19T09:49:10Z",
+            "owner": "rinigus",
+            "repo": "mapbox-gl-qml",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vector Tiles Google Maps",
+          "description": "Render vector tile layers on Google Maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355250577,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T11:50:39Z",
+            "owner": "techjb",
+            "repo": "Vector-Tiles-Google-Maps",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esri-gl",
+          "description": "A module for using Esri services in Mapbox GL JS or MapLibre GL JS, an alternative to esri-leaflet for WebGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052872170,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:34:54Z",
+            "owner": "muimsd",
+            "repo": "esri-gl",
+            "stars": 13
+          }
         }
       ],
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -442,8 +667,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:43:53Z",
+            "last_commit": "2026-08-19T12:46:57Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2605
@@ -456,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8295205,
             "language": "JavaScript",
             "last_commit": "2018-09-18T21:46:26Z",
             "owner": "mapbox",
@@ -470,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24325238,
             "language": "JavaScript",
             "last_commit": "2025-03-13T15:53:26Z",
             "owner": "kosmtik",
@@ -484,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128469820,
             "language": "JavaScript",
             "last_commit": "2023-03-01T08:52:07Z",
             "owner": "go-spatial",
@@ -498,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83487462,
             "language": "Python",
             "last_commit": "2024-06-20T13:26:50Z",
             "owner": "geometalab",
@@ -512,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78053404,
             "language": "JavaScript",
             "last_commit": "2020-09-08T10:54:24Z",
             "owner": "lukasmartinelli",
@@ -526,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056679393,
             "language": "Vue",
             "last_commit": "2026-03-03T10:52:49Z",
             "owner": "spider-hand",
@@ -540,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1234948788,
             "language": "Rust",
             "last_commit": "2026-08-15T12:52:42Z",
             "owner": "navidnabavi",
@@ -551,7 +784,7 @@
       "title": "Applications / Command line tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -560,11 +793,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419152443,
             "language": "Java",
             "last_commit": "2026-08-18T08:32:52Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2144
+            "stars": 2145
           }
         },
         {
@@ -574,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38220628,
             "language": "C++",
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
@@ -588,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525159492,
             "language": "C++",
             "last_commit": "2026-08-14T04:27:09Z",
             "owner": "felt",
@@ -602,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1363607,
             "language": "Python",
             "last_commit": "2025-10-07T19:18:13Z",
             "owner": "mapbox",
@@ -616,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58169665,
             "language": "EJS",
             "last_commit": "2021-05-23T20:11:01Z",
             "owner": "mapbox",
@@ -630,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10353962,
             "language": "C",
             "last_commit": "2014-08-19T19:29:02Z",
             "owner": "e-n-f",
@@ -644,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43922806,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:25:32Z",
             "owner": "mapbox",
@@ -658,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83418802,
             "language": "Python",
             "last_commit": "2017-09-21T20:56:41Z",
             "owner": "Geovation",
@@ -672,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474476526,
             "language": "Go",
             "last_commit": "2023-09-29T11:00:11Z",
             "owner": "lambdajack",
@@ -686,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83908064,
             "language": "Python",
             "last_commit": "2020-02-14T19:48:34Z",
             "owner": "NYCPlanning",
@@ -700,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33996805,
             "language": "JavaScript",
             "last_commit": "2016-01-27T07:19:59Z",
             "owner": "developmentseed",
@@ -714,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84297629,
             "language": "Go",
             "last_commit": "2022-04-04T14:13:47Z",
             "owner": "thomersch",
@@ -728,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20275159,
             "language": "JavaScript",
             "last_commit": "2018-07-10T20:44:07Z",
             "owner": "sethfitz",
@@ -742,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73417614,
             "language": "CoffeeScript",
             "last_commit": "2019-11-06T00:40:11Z",
             "owner": "rastapasta",
@@ -756,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175258530,
             "language": "Python",
             "last_commit": "2023-01-20T09:14:26Z",
             "owner": "Amyantis",
@@ -770,6 +1018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138433172,
             "language": "Haskell",
             "last_commit": "2024-02-12T16:26:51Z",
             "owner": "ondrap",
@@ -784,6 +1033,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293858310,
             "language": "Go",
             "last_commit": "2023-04-23T13:18:43Z",
             "owner": "dechristopher",
@@ -798,6 +1048,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174884425,
             "language": "Rust",
             "last_commit": "2026-08-14T13:47:32Z",
             "owner": "muimsd",
@@ -812,6 +1063,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245415679,
             "language": "Go",
             "last_commit": "2023-02-20T21:57:36Z",
             "owner": "wangyoucao577",
@@ -826,24 +1078,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1167917623,
             "language": "Go",
             "last_commit": "2026-02-27T15:06:03Z",
             "owner": "ATofighi",
             "repo": "mbview-go",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vector-tiles-producer",
-          "description": "Command line tool in C++ to creates vector tiles for a given area at chosen zoom levels using a Mapnik XML. :warning: no longer maintained",
-          "children": []
         }
       ],
       "title": "CLI Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -852,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29943859,
             "language": "JavaScript",
             "last_commit": "2026-08-17T07:53:26Z",
             "owner": "mapbox",
@@ -866,6 +1114,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937531039,
             "language": "TypeScript",
             "last_commit": "2026-07-15T11:52:21Z",
             "owner": "muimsd",
@@ -880,6 +1129,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1002485316,
             "language": "TypeScript",
             "last_commit": "2026-07-28T19:39:28Z",
             "owner": "muimsd",
@@ -891,7 +1141,7 @@
       "title": "Mapbox GL JS Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -900,8 +1150,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105363726,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:08:56Z",
+            "last_commit": "2026-08-18T22:47:09Z",
             "owner": "maplibre",
             "repo": "martin",
             "stars": 3836
@@ -914,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52776929,
             "language": "JavaScript",
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
@@ -928,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59313726,
             "language": "Go",
             "last_commit": "2026-08-10T23:14:17Z",
             "owner": "go-spatial",
@@ -942,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225944989,
             "language": "Go",
             "last_commit": "2025-12-11T17:47:55Z",
             "owner": "CrunchyData",
@@ -956,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26041451,
             "language": "Go",
             "last_commit": "2025-05-21T15:32:25Z",
             "owner": "consbio",
@@ -970,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592276,
             "language": "Python",
             "last_commit": "2024-05-07T08:59:56Z",
             "owner": "TileStache",
@@ -984,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58957660,
             "language": "Rust",
             "last_commit": "2024-09-24T14:17:05Z",
             "owner": "t-rex-tileserver",
@@ -998,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11378786,
             "language": "JavaScript",
             "last_commit": "2018-04-28T19:31:26Z",
             "owner": "locana-co",
@@ -1012,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27924727,
             "language": "JavaScript",
             "last_commit": "2021-07-21T19:26:45Z",
             "owner": "naturalatlas",
@@ -1026,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14215357,
             "language": "JavaScript",
             "last_commit": "2026-08-02T06:50:25Z",
             "owner": "sethfitz",
@@ -1040,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34038211,
             "language": "JavaScript",
             "last_commit": "2021-08-11T04:00:27Z",
             "owner": "kartotherian",
@@ -1054,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 263787865,
             "language": "PLpgSQL",
             "last_commit": "2026-04-01T23:26:10Z",
             "owner": "developmentseed",
@@ -1068,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21664546,
             "language": "JavaScript",
             "last_commit": "2018-09-04T19:47:03Z",
             "owner": "faradayio",
@@ -1082,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490317737,
             "language": "Rust",
             "last_commit": "2025-10-11T20:31:50Z",
             "owner": "bbox-services",
@@ -1096,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215876544,
             "language": "TypeScript",
             "last_commit": "2023-11-23T14:51:38Z",
             "owner": "chargetrip",
@@ -1110,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75525864,
             "language": "JavaScript",
             "last_commit": "2023-01-23T22:23:47Z",
             "owner": "urbica",
@@ -1124,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39157654,
             "language": "Python",
             "last_commit": "2024-05-30T17:59:43Z",
             "owner": "tilezen",
@@ -1138,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195643617,
             "language": "TypeScript",
             "last_commit": "2026-04-08T23:04:36Z",
             "owner": "henrythasler",
@@ -1152,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506452095,
             "language": "Python",
             "last_commit": "2022-07-08T21:06:36Z",
             "owner": "mkeller3",
@@ -1166,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62597157,
             "language": "Go",
             "last_commit": "2016-07-30T06:20:45Z",
             "owner": "vicapow",
@@ -1180,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192395627,
             "language": "Python",
             "last_commit": "2021-11-18T16:12:32Z",
             "owner": "corteva",
@@ -1194,8 +1465,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690617644,
             "language": "Rust",
-            "last_commit": "2026-08-18T11:03:43Z",
+            "last_commit": "2026-08-19T02:00:55Z",
             "owner": "mvt-proj",
             "repo": "mvt-rs",
             "stars": 46
@@ -1208,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40541767,
             "language": "Python",
             "last_commit": "2017-11-01T10:34:41Z",
             "owner": "tilery",
@@ -1222,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90318178,
             "language": "Python",
             "last_commit": "2019-10-24T12:46:22Z",
             "owner": "openmaptiles",
@@ -1236,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1263087729,
             "language": null,
             "last_commit": "2026-08-10T10:00:35Z",
             "owner": "maptoolkit",
@@ -1250,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135324487,
             "language": "Go",
             "last_commit": "2026-07-03T04:45:18Z",
             "owner": "StationA",
@@ -1264,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375317258,
             "language": "Go",
             "last_commit": "2026-08-14T04:02:16Z",
             "owner": "dechristopher",
@@ -1278,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67577232,
             "language": "Haskell",
             "last_commit": "2021-01-20T13:42:53Z",
             "owner": "zellige",
@@ -1292,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289935997,
             "language": "C",
             "last_commit": "2024-03-06T22:14:51Z",
             "owner": "durkie",
@@ -1306,24 +1585,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696864103,
             "language": "PLpgSQL",
             "last_commit": "2024-01-31T08:54:38Z",
             "owner": "feludwig",
             "repo": "pgsql-omt-schema",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Tyler",
-          "description": "An Open Source tiling server maintaining a Vector Tile storage providing a REST interface.",
-          "children": []
         }
       ],
       "title": "Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1332,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39534398,
             "language": "JavaScript",
             "last_commit": "2026-06-17T21:48:37Z",
             "owner": "mapbox",
@@ -1346,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103062460,
             "language": "C++",
             "last_commit": "2026-06-30T07:32:37Z",
             "owner": "mapbox",
@@ -1360,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438869650,
             "language": "C",
             "last_commit": "2024-09-30T19:47:36Z",
             "owner": "brendan-ward",
@@ -1374,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64881173,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:02:04Z",
             "owner": "mapbox",
@@ -1388,24 +1666,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30678362,
             "language": null,
             "last_commit": "2026-06-17T19:58:52Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-function",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mapbox-gl-filter-simplify",
-          "description": "Simplifies and complexifies filters in Mapbox GL Styles :warning: removed",
-          "children": []
         }
       ],
       "title": "Low-level utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1414,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38220628,
             "language": "C++",
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
@@ -1428,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 144558574,
             "language": "HTML",
             "last_commit": "2018-09-11T04:02:23Z",
             "owner": "addresscloud",
@@ -1442,6 +1717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366051493,
             "language": "JavaScript",
             "last_commit": "2021-10-17T20:47:09Z",
             "owner": "dechristopher",
@@ -1451,16 +1727,12 @@
         }
       ],
       "title": "Articles"
-    },
-    {
-      "description": "To the extent possible under law, Tom MacWright has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:07:38.821Z",
+    "last_updated": "2026-08-19T12:58:26.612Z",
     "original_repository": "mapbox/awesome-vector-tiles",
+    "original_repository_id": 41861984,
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
     "enhanced_repository_description": null,
