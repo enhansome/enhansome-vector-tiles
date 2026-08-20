@@ -348,10 +348,10 @@
             "archived": false,
             "id": 8629417,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:59:34Z",
+            "last_commit": "2026-08-20T11:03:19Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12384
+            "stars": 12385
           }
         },
         {
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:23:08Z",
+            "last_commit": "2026-08-20T08:38:30Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11382
+            "stars": 11391
           }
         },
         {
@@ -498,7 +498,7 @@
             "archived": false,
             "id": 43068275,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T18:41:53Z",
+            "last_commit": "2026-08-20T16:12:32Z",
             "owner": "iTowns",
             "repo": "itowns",
             "stars": 1263
@@ -588,7 +588,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-19T15:18:15Z",
+            "last_commit": "2026-08-20T14:40:17Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T13:43:51Z",
+            "last_commit": "2026-08-20T06:17:21Z",
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2605
+            "stars": 2610
           }
         },
         {
@@ -711,7 +711,7 @@
           "description": "is an open source Mapbox Vector Tile Style editor.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 128469820,
             "language": "JavaScript",
             "last_commit": "2023-03-01T08:52:07Z",
@@ -813,7 +813,7 @@
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1882
+            "stars": 1883
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-07-15T11:52:21Z",
             "owner": "muimsd",
             "repo": "map-gl-offline",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -1152,10 +1152,10 @@
             "archived": false,
             "id": 105363726,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:47:09Z",
+            "last_commit": "2026-08-20T10:33:33Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3836
+            "stars": 3837
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2881
+            "stars": 2882
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2025-05-21T15:32:25Z",
             "owner": "consbio",
             "repo": "mbtileserver",
-            "stars": 788
+            "stars": 789
           }
         },
         {
@@ -1542,7 +1542,7 @@
             "archived": false,
             "id": 375317258,
             "language": "Go",
-            "last_commit": "2026-08-14T04:02:16Z",
+            "last_commit": "2026-08-20T05:44:06Z",
             "owner": "dechristopher",
             "repo": "lod",
             "stars": 24
@@ -1692,7 +1692,7 @@
             "last_commit": "2026-07-04T23:12:22Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1882
+            "stars": 1883
           }
         },
         {
@@ -1730,7 +1730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:03:18.289Z",
+    "last_updated": "2026-08-20T19:11:23.088Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_id": 41861984,
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
