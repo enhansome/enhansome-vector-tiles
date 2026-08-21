@@ -348,10 +348,10 @@
             "archived": false,
             "id": 8629417,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T11:03:19Z",
+            "last_commit": "2026-08-21T18:22:04Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12385
+            "stars": 12386
           }
         },
         {
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T08:38:30Z",
+            "last_commit": "2026-08-21T13:48:57Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11391
+            "stars": 11398
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-02-08T03:24:49Z",
             "owner": "tangrams",
             "repo": "tangram",
-            "stars": 2333
+            "stars": 2334
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-01-08T08:50:14Z",
             "owner": "tangrams",
             "repo": "tangram-es",
-            "stars": 874
+            "stars": 873
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-20T16:12:32Z",
             "owner": "iTowns",
             "repo": "itowns",
-            "stars": 1263
+            "stars": 1265
           }
         },
         {
@@ -588,7 +588,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-20T14:40:17Z",
+            "last_commit": "2026-08-21T14:44:55Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 88
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T06:17:21Z",
+            "last_commit": "2026-08-21T10:58:50Z",
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2610
+            "stars": 2611
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-08-18T08:32:52Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2145
+            "stars": 2148
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-14T04:27:09Z",
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1584
+            "stars": 1585
           }
         },
         {
@@ -1152,10 +1152,10 @@
             "archived": false,
             "id": 105363726,
             "language": "Rust",
-            "last_commit": "2026-08-20T10:33:33Z",
+            "last_commit": "2026-08-21T14:24:58Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3837
+            "stars": 3840
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2882
+            "stars": 2881
           }
         },
         {
@@ -1182,10 +1182,10 @@
             "archived": false,
             "id": 59313726,
             "language": "Go",
-            "last_commit": "2026-08-10T23:14:17Z",
+            "last_commit": "2026-08-20T22:49:29Z",
             "owner": "go-spatial",
             "repo": "tegola",
-            "stars": 1499
+            "stars": 1501
           }
         },
         {
@@ -1730,7 +1730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:11:23.088Z",
+    "last_updated": "2026-08-21T19:07:01.861Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_id": 41861984,
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
