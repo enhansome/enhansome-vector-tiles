@@ -363,10 +363,10 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:07:13Z",
+            "last_commit": "2026-08-23T12:55:42Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11404
+            "stars": 11411
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2025-10-27T05:08:04Z",
             "owner": "tumic0",
             "repo": "QtPBFImagePlugin",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-08-18T08:32:52Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2149
+            "stars": 2151
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-14T04:27:09Z",
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1585
+            "stars": 1586
           }
         },
         {
@@ -1152,10 +1152,10 @@
             "archived": false,
             "id": 105363726,
             "language": "Rust",
-            "last_commit": "2026-08-22T17:59:09Z",
+            "last_commit": "2026-08-23T16:24:48Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3843
+            "stars": 3845
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2882
+            "stars": 2883
           }
         },
         {
@@ -1260,7 +1260,7 @@
             "last_commit": "2018-04-28T19:31:26Z",
             "owner": "locana-co",
             "repo": "PGRestAPI",
-            "stars": 434
+            "stars": 433
           }
         },
         {
@@ -1467,7 +1467,7 @@
             "archived": false,
             "id": 690617644,
             "language": "Rust",
-            "last_commit": "2026-08-21T23:47:53Z",
+            "last_commit": "2026-08-23T17:57:15Z",
             "owner": "mvt-proj",
             "repo": "mvt-rs",
             "stars": 46
@@ -1542,7 +1542,7 @@
             "archived": false,
             "id": 375317258,
             "language": "Go",
-            "last_commit": "2026-08-20T05:44:06Z",
+            "last_commit": "2026-08-23T08:53:01Z",
             "owner": "dechristopher",
             "repo": "lod",
             "stars": 24
@@ -1730,7 +1730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:58:46.387Z",
+    "last_updated": "2026-08-23T18:57:57.067Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_id": 41861984,
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
