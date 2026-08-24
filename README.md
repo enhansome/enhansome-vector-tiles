@@ -31,7 +31,7 @@ data into vector tiles that can be rendered dynamically.
 ## Clients
 
 * [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,388 | 🐛 1,457 | 🌐 TypeScript | 📅 2026-08-24 - JavaScript/WebGL vector maps library.
-* [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) ⭐ 11,420 | 🐛 386 | 🌐 TypeScript | 📅 2026-08-24 - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
+* [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) ⭐ 11,420 | 🐛 384 | 🌐 TypeScript | 📅 2026-08-24 - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
 * [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native) ⚠️ Archived - C++/OpenGL vector maps library with native SDKs for Android, iOS, Node.js, macOS, and Qt
 * [Mapzen Tangram](https://github.com/tangrams/tangram) ⭐ 2,334 | 🐛 66 | 🌐 JavaScript | 📅 2026-02-08 - JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL, supports MVT, GeoJSON, TopoJSON
 * [Mapzen Tangram-es](https://github.com/tangrams/tangram-es) ⭐ 873 | 🐛 177 | 🌐 C++ | 📅 2024-01-08 - C++ library for rendering 2D and 3D maps using OpenGL ES 2 with custom styling and interactions
@@ -52,7 +52,7 @@ data into vector tiles that can be rendered dynamically.
 - [QtPBFImagePlugin](https://github.com/tumic0/QtPBFImagePlugin) ⭐ 59 | 🐛 0 | 🌐 C++ | 📅 2025-10-27 - Qt image plugin for displaying Mapbox vector tiles.
 - [Unofficial Mapbox GL Native bindings for Qt QML](https://github.com/rinigus/mapbox-gl-qml) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-07-19 - Qt QML bindings for Qt 5.6 and higher.
 - [Vector Tiles Google Maps](https://github.com/techjb/Vector-Tiles-Google-Maps) ⭐ 47 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-03 - Render vector tile layers on Google Maps.
-- [esri-gl](https://github.com/muimsd/esri-gl) ⭐ 13 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-15 - A module for using Esri services in Mapbox GL JS or MapLibre GL JS, an alternative to esri-leaflet for WebGL.
+- [esri-gl](https://github.com/muimsd/esri-gl) ⭐ 13 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 - A module for using Esri services in Mapbox GL JS or MapLibre GL JS, an alternative to esri-leaflet for WebGL.
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Draw vector tile layers as part of your web map. Rendering done via `mapbox-gl-js` integration.
 - [Azure Maps Web SDK](https://docs.microsoft.com/azure/azure-maps/) - Render vector tile layers on an interactive web map control using JavaScript or TypeScript.
 - [deckGl](https://deck.gl/docs/api-reference/geo-layers/mvt-layer) - WebGL-powered framework for visual exploratory data analysis of large datasets
@@ -105,12 +105,12 @@ data into vector tiles that can be rendered dynamically.
 ## Mapbox GL JS Plugins
 
 * [gl-draw](https://github.com/mapbox/gl-draw) ⭐ 1,083 | 🐛 245 | 🌐 JavaScript | 📅 2026-08-24 - Adds support for drawing and editing features on Mapbox GL JS maps
-* [map-gl-offline](https://github.com/muimsd/map-gl-offline) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-15 - A TypeScript package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.
+* [map-gl-offline](https://github.com/muimsd/map-gl-offline) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 - A TypeScript package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.
 * [map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28 - A customizable style switcher control for Mapbox GL JS and MapLibre GL JS.
 
 ## Servers
 
-* [martin](https://github.com/maplibre/martin) ⭐ 3,846 | 🐛 74 | 🌐 Rust | 📅 2026-08-24 - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
+* [martin](https://github.com/maplibre/martin) ⭐ 3,848 | 🐛 76 | 🌐 Rust | 📅 2026-08-24 - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
 * [tileserver-gl](https://github.com/maptiler/tileserver-gl) ⭐ 2,884 | 🐛 274 | 🌐 JavaScript | 📅 2026-08-10 Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 * [Tegola](https://github.com/go-spatial/tegola) ⭐ 1,501 | 🐛 181 | 🌐 Go | 📅 2026-08-20 - is a vector tile server delivering Mapbox Vector Tiles with support for PostGIS and GeoPackage data providers.
 * [pg\_tileserv](https://github.com/CrunchyData/pg_tileserv) ⭐ 1,057 | 🐛 42 | 🌐 Go | 📅 2025-12-11 - A very thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.

@@ -348,7 +348,7 @@
             "archived": false,
             "id": 8629417,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:05:53Z",
+            "last_commit": "2026-08-24T15:15:40Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
             "stars": 12388
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:31Z",
+            "last_commit": "2026-08-24T15:18:16Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
             "stars": 11420
@@ -648,7 +648,7 @@
             "archived": false,
             "id": 1052872170,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:34:54Z",
+            "last_commit": "2026-08-24T17:49:28Z",
             "owner": "muimsd",
             "repo": "esri-gl",
             "stars": 13
@@ -1116,7 +1116,7 @@
             "archived": false,
             "id": 937531039,
             "language": "TypeScript",
-            "last_commit": "2026-07-15T11:52:21Z",
+            "last_commit": "2026-08-24T17:20:56Z",
             "owner": "muimsd",
             "repo": "map-gl-offline",
             "stars": 21
@@ -1155,7 +1155,7 @@
             "last_commit": "2026-08-24T10:45:52Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3846
+            "stars": 3848
           }
         },
         {
@@ -1730,7 +1730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:10.996Z",
+    "last_updated": "2026-08-24T19:10:22.783Z",
     "original_repository": "mapbox/awesome-vector-tiles",
     "original_repository_id": 41861984,
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
