@@ -363,10 +363,10 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:27:18Z",
+            "last_commit": "2026-08-27T11:09:41Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11455
+            "stars": 11462
           }
         },
         {
@@ -446,21 +446,6 @@
         },
         {
           "node_type": "item",
-          "title": "CARTO Mobile SDK",
-          "description": "C++ maps library focused on offline features, for iOS, Android, Windows Phone and Xamarin with bindings for Java, Objective-C and C#. Based on Nutiteq Maps SDK, but open source and uses CartoCSS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 60150702,
-            "language": "C",
-            "last_commit": "2026-01-05T11:05:19Z",
-            "owner": "CartoDB",
-            "repo": "mobile-sdk",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
           "title": "mapscii",
           "description": "A Vector Tile to Braille and ASCII renderer for xterm-compatible terminals",
           "children": [],
@@ -471,7 +456,7 @@
             "last_commit": "2024-11-03T16:02:52Z",
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9225
+            "stars": 9227
           }
         },
         {
@@ -588,7 +573,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-26T14:46:16Z",
+            "last_commit": "2026-08-27T10:11:51Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 89
@@ -672,7 +657,7 @@
             "last_commit": "2026-08-26T13:54:17Z",
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2612
+            "stars": 2613
           }
         },
         {
@@ -1155,7 +1140,7 @@
             "last_commit": "2026-08-26T14:01:27Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3873
+            "stars": 3874
           }
         },
         {
@@ -1170,7 +1155,7 @@
             "last_commit": "2026-08-10T23:13:59Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2887
+            "stars": 2888
           }
         },
         {
@@ -1200,7 +1185,7 @@
             "last_commit": "2025-12-11T17:47:55Z",
             "owner": "CrunchyData",
             "repo": "pg_tileserv",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -1467,7 +1452,7 @@
             "archived": false,
             "id": 690617644,
             "language": "Rust",
-            "last_commit": "2026-08-26T03:01:17Z",
+            "last_commit": "2026-08-27T03:06:12Z",
             "owner": "mvt-proj",
             "repo": "mvt-rs",
             "stars": 46
@@ -1730,9 +1715,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:37:31.571Z",
-    "original_repository": "mapbox/awesome-vector-tiles",
-    "original_repository_id": 41861984,
+    "last_updated": "2026-08-27T12:09:20.091Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 41861984,
+      "language": null,
+      "last_commit": "2026-08-10T19:17:38Z",
+      "owner": "mapbox",
+      "repo": "awesome-vector-tiles",
+      "stars": 2622
+    },
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
     "enhanced_repository_description": null,
