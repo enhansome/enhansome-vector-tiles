@@ -363,10 +363,10 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:41Z",
+            "last_commit": "2026-08-27T13:20:26Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11462
+            "stars": 11469
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-11-03T16:02:52Z",
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9227
+            "stars": 9228
           }
         },
         {
@@ -573,7 +573,7 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-27T10:11:51Z",
+            "last_commit": "2026-08-27T15:14:26Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 89
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:54:17Z",
+            "last_commit": "2026-08-27T13:55:02Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2613
@@ -795,10 +795,10 @@
             "archived": false,
             "id": 38220628,
             "language": "C++",
-            "last_commit": "2026-07-04T23:12:22Z",
+            "last_commit": "2026-08-27T15:49:25Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1883
+            "stars": 1884
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "archived": false,
             "id": 105363726,
             "language": "Rust",
-            "last_commit": "2026-08-26T14:01:27Z",
+            "last_commit": "2026-08-27T23:05:38Z",
             "owner": "maplibre",
             "repo": "martin",
             "stars": 3874
@@ -1452,7 +1452,7 @@
             "archived": false,
             "id": 690617644,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:06:12Z",
+            "last_commit": "2026-08-27T16:40:01Z",
             "owner": "mvt-proj",
             "repo": "mvt-rs",
             "stars": 46
@@ -1527,7 +1527,7 @@
             "archived": false,
             "id": 375317258,
             "language": "Go",
-            "last_commit": "2026-08-23T08:53:01Z",
+            "last_commit": "2026-08-27T20:56:30Z",
             "owner": "dechristopher",
             "repo": "lod",
             "stars": 24
@@ -1674,10 +1674,10 @@
             "archived": false,
             "id": 38220628,
             "language": "C++",
-            "last_commit": "2026-07-04T23:12:22Z",
+            "last_commit": "2026-08-27T15:49:25Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1883
+            "stars": 1884
           }
         },
         {
@@ -1715,7 +1715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:20.091Z",
+    "last_updated": "2026-08-28T02:16:35.912Z",
     "original_repository_info": {
       "archived": false,
       "id": 41861984,
