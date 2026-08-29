@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slice GeoJSON into vector tiles on the fly in the browser",
+            "homepage": null,
             "id": 27469126,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-07-02T09:09:20Z",
+            "open_issues": 15,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2041
+            "stars": 2041,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -26,12 +31,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Types and utilities for working with 2d geometry in Golang",
+            "homepage": null,
             "id": 54856356,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-30T15:51:22Z",
+            "open_issues": 19,
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1127
+            "stars": 1127,
+            "topics": [
+              "2d",
+              "geo",
+              "geojson",
+              "geospatial",
+              "gis",
+              "mapbox-vector-tile",
+              "wkb",
+              "wkt"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mapnik implemention of Mapbox Vector Tile specification",
+            "homepage": null,
             "id": 9403933,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-13T23:07:34Z",
+            "open_issues": 19,
             "owner": "mapbox",
             "repo": "mapnik-vector-tile",
-            "stars": 554
+            "stars": 554,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -58,12 +82,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bindings to mapnik for node.js",
+            "homepage": "http://mapnik.org/documentation/node-mapnik",
             "id": 1084114,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T14:07:26Z",
+            "open_issues": 104,
             "owner": "mapnik",
             "repo": "node-mapnik",
-            "stars": 545
+            "stars": 545,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -74,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parses vector tiles with JavaScript",
+            "homepage": null,
             "id": 18715334,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-24T10:28:32Z",
+            "open_issues": 8,
             "owner": "mapbox",
             "repo": "vector-tile-js",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -90,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package for encoding & decoding Mapbox Vector Tiles",
+            "homepage": null,
             "id": 26827282,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-08T02:21:05Z",
+            "open_issues": 18,
             "owner": "tilezen",
             "repo": "mapbox-vector-tile",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -106,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A java encoder and decoder for vector tiles according to Mapbox vector tile spec",
+            "homepage": null,
             "id": 20247390,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-15T14:09:51Z",
+            "open_issues": 0,
             "owner": "ElectronicChartCentre",
             "repo": "java-vector-tile",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -122,12 +166,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Mapbox Vector Tile Library for Encoding/Decoding ",
+            "homepage": null,
             "id": 62918737,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-04T23:32:57Z",
+            "open_issues": 16,
             "owner": "wdtinc",
             "repo": "mapbox-vector-tile-java",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "java",
+              "jts",
+              "mapbox-vector-tile"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -138,12 +191,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A .NET Standard 2.0 library for encoding/decoding a Mapbox vector tile",
+            "homepage": null,
             "id": 38310808,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-24T08:27:54Z",
+            "open_issues": 0,
             "owner": "bertt",
             "repo": "mapbox-vector-tile-cs",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "mapbox",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -154,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implements the tilelive API for rendering mapnik vector tiles to raster images.",
+            "homepage": null,
             "id": 8632096,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T15:19:50Z",
+            "open_issues": 24,
             "owner": "mapbox",
             "repo": "tilelive-vector",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -170,12 +236,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "♻️ A node.js GIS helper library for easy alteration of Vector Tiles in an MBTiles container",
+            "homepage": null,
             "id": 73510867,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2019-11-06T00:39:52Z",
+            "open_issues": 3,
             "owner": "rastapasta",
             "repo": "tilegrinder",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "helper",
+              "mbtiles",
+              "nodejs",
+              "processing",
+              "protobuf",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -186,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parses vector tiles with C#.",
+            "homepage": null,
             "id": 70201326,
             "language": "C#",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T15:24:28Z",
+            "open_issues": 15,
             "owner": "mapbox",
             "repo": "vector-tile-cs",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -202,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implements the tilelive API for generating mapnik vector tiles from traditional mapnik datasources.",
+            "homepage": null,
             "id": 8805076,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T15:19:29Z",
+            "open_issues": 11,
             "owner": "mapbox",
             "repo": "tilelive-bridge",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -218,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts GeoJSON to vector tiles :scissors: :earth_americas:",
+            "homepage": null,
             "id": 254060497,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2021-04-20T19:48:10Z",
+            "open_issues": 5,
             "owner": "geometalab",
             "repo": "geojson2vt",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -234,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MBTiles reader and Mapbox Vector Tiles 2.0/2.1 reader/writer in C++",
+            "homepage": null,
             "id": 66118632,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-04T10:38:54Z",
+            "open_issues": 0,
             "owner": "TimSC",
             "repo": "mbtiles-cpp",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -250,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED - Parses vector tiles with Python",
+            "homepage": null,
             "id": 18731142,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-17T23:00:50Z",
+            "open_issues": 1,
             "owner": "mapbox",
             "repo": "vector-tile-py",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -266,12 +369,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Dart package to encode & decode Mapbox Vector Tile",
+            "homepage": "https://pub.dev/packages/vector_tile",
             "id": 337191414,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-03-28T17:46:49Z",
+            "open_issues": 3,
             "owner": "bahung1221",
             "repo": "dart-vector-tile",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "dart-vector-tile",
+              "geojson-format",
+              "vector-tile",
+              "vector-tile-parser",
+              "vector-tile-to-geojson"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -282,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 479349337,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T14:01:37Z",
+            "open_issues": 1,
             "owner": "DenysMoskalenko",
             "repo": "vt2pbf",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -298,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift Mapbox vector tile encoder",
+            "homepage": null,
             "id": 77562149,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-17T15:15:23Z",
+            "open_issues": 1,
             "owner": "manimaul",
             "repo": "SwiftVectorTiles",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -314,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 66093677,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-08-19T16:21:10Z",
+            "open_issues": 0,
             "owner": "developmentseed",
             "repo": "cached-vector-tile",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -330,12 +459,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve or write Mapbox Vector Tile 2.1 using PHP 8.1",
+            "homepage": "https://packagist.org/packages/heymoon/vector-tile-data-provider",
             "id": 556105367,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-05-01T06:38:42Z",
+            "open_issues": 3,
             "owner": "heymoon-cc",
             "repo": "php-vector-tile-data-provider",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "mapbox-vector-tile",
+              "tileserver-gl",
+              "vt-pbf"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -346,12 +484,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://pub.dev/packages/vtzero_dart",
             "id": 1068284836,
             "language": "Dart",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-08T17:27:19Z",
+            "open_issues": 1,
             "owner": "landyrev",
             "repo": "vtzero-dart",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dart",
+              "flutter",
+              "mapbox"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -368,12 +515,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+            "homepage": "https://docs.mapbox.com/mapbox-gl-js/",
             "id": 8629417,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:09:38Z",
+            "open_issues": 1457,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12392
+            "stars": 12392,
+            "topics": [
+              "3d",
+              "javascript",
+              "maps",
+              "priority",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -384,12 +542,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+            "homepage": "https://maplibre.org/maplibre-gl-js/docs/",
             "id": 319779344,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:32:51Z",
+            "open_issues": 386,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11480
+            "stars": 11480,
+            "topics": [
+              "hacktoberfest",
+              "maplibre",
+              "maplibre-gl",
+              "maplibre-gl-js",
+              "typescript",
+              "webgl2"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -400,12 +570,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL",
+            "homepage": "https://mapbox.com/mobile",
             "id": 16286131,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-27T10:31:03Z",
+            "open_issues": 312,
             "owner": "mapbox",
             "repo": "mapbox-gl-native",
-            "stars": 4453
+            "stars": 4453,
+            "topics": [
+              "android",
+              "c-plus-plus",
+              "geojson",
+              "ios",
+              "java",
+              "macos",
+              "map",
+              "mapbox",
+              "mapbox-gl",
+              "maps",
+              "monorepo",
+              "nodejs",
+              "objective-c",
+              "objective-c-plus-plus",
+              "opengl",
+              "opengl-es",
+              "openstreetmap",
+              "qt",
+              "swift",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -416,12 +612,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebGL map rendering engine for creative cartography",
+            "homepage": "https://tangram.city",
             "id": 13203894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-08T03:24:49Z",
+            "open_issues": 66,
             "owner": "tangrams",
             "repo": "tangram",
-            "stars": 2334
+            "stars": 2334,
+            "topics": [
+              "leaflet",
+              "magic",
+              "map",
+              "map-renderer",
+              "mapzen",
+              "raster-tiles",
+              "rendering",
+              "tangram",
+              "vector-graphics",
+              "vector-tiles",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -432,12 +645,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D and 3D map renderer using OpenGL ES",
+            "homepage": null,
             "id": 23391501,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-01-08T08:50:14Z",
+            "open_issues": 177,
             "owner": "tangrams",
             "repo": "tangram-es",
-            "stars": 873
+            "stars": 873,
+            "topics": [
+              "3d-map",
+              "android",
+              "c-plus-plus",
+              "indic-scripts",
+              "ios",
+              "linux",
+              "macos",
+              "map",
+              "map-renderer",
+              "mapzen",
+              "opengl-es",
+              "raspberry-pi",
+              "raster-tiles",
+              "renderer",
+              "tangram",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -448,12 +683,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WhirlyGlobe Development",
+            "homepage": null,
             "id": 3139032,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-31T00:23:58Z",
+            "open_issues": 121,
             "owner": "mousebird-consulting-inc",
             "repo": "WhirlyGlobe",
-            "stars": 845
+            "stars": 845,
+            "topics": [
+              "android",
+              "geodesy",
+              "gis",
+              "globe",
+              "ios",
+              "location",
+              "mapping"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -464,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.",
+            "homepage": null,
             "id": 23976871,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-24T12:30:49Z",
+            "open_issues": 43,
             "owner": "SpatialServer",
             "repo": "Leaflet.MapboxVectorTile",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -480,12 +733,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows",
+            "homepage": null,
             "id": 68485692,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-03T16:02:52Z",
+            "open_issues": 52,
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9228
+            "stars": 9228,
+            "topics": [
+              "ascii-art",
+              "braille",
+              "console",
+              "console-application",
+              "map",
+              "openstreetmap",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -496,12 +762,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mapbox GL react native module for creating custom maps",
+            "homepage": null,
             "id": 34629135,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-18T11:22:11Z",
+            "open_issues": 224,
             "owner": "nitaliano",
             "repo": "react-native-mapbox-gl",
-            "stars": 2170
+            "stars": 2170,
+            "topics": [
+              "android",
+              "ios",
+              "mapbox-gl",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -512,12 +788,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data",
+            "homepage": "http://www.itowns-project.org",
             "id": 43068275,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T13:32:00Z",
+            "open_issues": 290,
             "owner": "iTowns",
             "repo": "itowns",
-            "stars": 1266
+            "stars": 1266,
+            "topics": [
+              "3d",
+              "gis",
+              "globe",
+              "immersion-vr",
+              "itowns",
+              "javascript",
+              "pointcloud",
+              "vector-tiles",
+              "visualization",
+              "webgl",
+              "webmapping",
+              "wfs",
+              "wms"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -528,12 +823,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display gridded vector data (sliced GeoJSON or protobuf vector tiles) in Leaflet 1.0.0",
+            "homepage": null,
             "id": 53418430,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-01-09T18:01:02Z",
+            "open_issues": 121,
             "owner": "Leaflet",
             "repo": "Leaflet.VectorGrid",
-            "stars": 676
+            "stars": 676,
+            "topics": [
+              "geojson",
+              "leaflet",
+              "protobuf-vector-tiles",
+              "topojson",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -544,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "binding from Mapbox GL JS to the Leaflet API",
+            "homepage": null,
             "id": 21214930,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-06-17T19:59:00Z",
+            "open_issues": 19,
             "owner": "mapbox",
             "repo": "mapbox-gl-leaflet",
-            "stars": 546
+            "stars": 546,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -560,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive Vector Map Tile Renderer for .Net/C#",
+            "homepage": null,
             "id": 129521660,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-06-22T16:12:00Z",
+            "open_issues": 20,
             "owner": "AliFlux",
             "repo": "VectorTileRenderer",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -576,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of mapbox-gl-js that gives you explicit control of which source tiles you render and where",
+            "homepage": null,
             "id": 118025375,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-19T15:55:29Z",
+            "open_issues": 42,
             "owner": "landtechnologies",
             "repo": "Mapbox-vector-tiles-basic-js-renderer",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -592,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leaflet tile layer for geojson, topojson, and protobuf on canvas",
+            "homepage": null,
             "id": 27337543,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-18T21:37:06Z",
+            "open_issues": 6,
             "owner": "summer4096",
             "repo": "hoverboard",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -608,12 +934,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.",
+            "homepage": "https://swiftpackageindex.com/artembobkin/ImmersiveMap",
             "id": 1249253355,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:30:12Z",
+            "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "cartography",
+              "geospatial",
+              "globe",
+              "gpu",
+              "graphics",
+              "ios",
+              "macos",
+              "map-engine",
+              "map-rendering",
+              "mapbox",
+              "maps",
+              "metal",
+              "mvt",
+              "rendering-engine",
+              "swift",
+              "swift-package-manager",
+              "swift6",
+              "swiftui",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -624,12 +975,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt image plugin for displaying Mapbox vector tiles",
+            "homepage": null,
             "id": 155124614,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2025-10-27T05:08:04Z",
+            "open_issues": 0,
             "owner": "tumic0",
             "repo": "QtPBFImagePlugin",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "mapbox",
+              "mbtiles",
+              "mvt",
+              "openmaptiles",
+              "pbf",
+              "qt",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -640,12 +1004,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Mapbox GL Native bindings for Qt QML",
+            "homepage": null,
             "id": 103438297,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-19T09:49:10Z",
+            "open_issues": 0,
             "owner": "rinigus",
             "repo": "mapbox-gl-qml",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "linux",
+              "map",
+              "mapbox-gl",
+              "opengl-es",
+              "openstreetmap",
+              "qml",
+              "qt",
+              "sailfishos"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -656,12 +1034,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript library to render vector tiles in Google Maps.",
+            "homepage": "https://github.com/techjb/Vector-Tiles-Google-Maps",
             "id": 355250577,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-03T11:50:39Z",
+            "open_issues": 2,
             "owner": "techjb",
             "repo": "Vector-Tiles-Google-Maps",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "google-maps",
+              "google-maps-api",
+              "mapbox",
+              "mbtiles",
+              "mvt",
+              "pbf",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -672,12 +1063,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module for making it easier to use Esri services in mapbox-gl or maplibre-gl, alternative to esri-leaflet for webgl.",
+            "homepage": "https://esri-gl.pages.dev",
             "id": 1052872170,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T07:13:52Z",
+            "open_issues": 0,
             "owner": "muimsd",
             "repo": "esri-gl",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "arcgis",
+              "esri",
+              "esri-leaflet",
+              "feature-service",
+              "gis",
+              "mapbox-gl",
+              "maplibre-gl",
+              "raster-tiles",
+              "typescript",
+              "vector-tiles",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -694,12 +1102,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source visual editor for the 'MapLibre Style Specification'",
+            "homepage": "https://www.maplibre.org/maputnik",
             "id": 67726921,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:43:29Z",
+            "open_issues": 96,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2614
+            "stars": 2614,
+            "topics": [
+              "cartography",
+              "geo",
+              "geospatial",
+              "gis",
+              "hacktoberfest",
+              "maplibre",
+              "maplibre-gl-js",
+              "mapping",
+              "maps",
+              "maputnik",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -710,12 +1135,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://www.mapbox.com/mapbox-studio/",
             "id": 8295205,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-09-18T21:46:26Z",
+            "open_issues": 267,
             "owner": "mapbox",
             "repo": "mapbox-studio-classic",
-            "stars": 1139
+            "stars": 1139,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -726,12 +1156,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make maps with OpenStreetMap and Mapnik",
+            "homepage": null,
             "id": 24325238,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-13T15:53:26Z",
+            "open_issues": 112,
             "owner": "kosmtik",
             "repo": "kosmtik",
-            "stars": 750
+            "stars": 750,
+            "topics": [
+              "cartocss",
+              "javascript",
+              "kosmtik",
+              "mapnik",
+              "nodejs",
+              "openstreetmap"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -742,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source vector tile style editor",
+            "homepage": "https://fresco.go-spatial.org",
             "id": 128469820,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-01T08:52:07Z",
+            "open_issues": 61,
             "owner": "go-spatial",
             "repo": "fresco",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -758,12 +1205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector Tiles Reader QGIS-Plugin - QGIS Python plugin which reads Mapbox Vector Tiles from a server, a local MBTiles file or a directory",
+            "homepage": "http://plugins.qgis.org/plugins/vector_tiles_reader/",
             "id": 83487462,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-06-20T13:26:50Z",
+            "open_issues": 44,
             "owner": "geometalab",
             "repo": "Vector-Tiles-Reader-QGIS-Plugin",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -774,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspection plugin for Mapbox GL JS",
+            "homepage": "http://mapbox-gl-inspect.lukasmartinelli.ch/",
             "id": 78053404,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-09-08T10:54:24Z",
+            "open_issues": 10,
             "owner": "lukasmartinelli",
             "repo": "mapbox-gl-inspect",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -790,12 +1247,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local development tool for experimenting with vector tiles",
+            "homepage": null,
             "id": 1056679393,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-03-03T10:52:49Z",
+            "open_issues": 0,
             "owner": "spider-hand",
             "repo": "vector-tile-lab",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "data-visualization",
+              "developer-tools",
+              "geojson",
+              "geospatial",
+              "gis",
+              "mapbox",
+              "maplibre",
+              "pmtiles",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -806,12 +1278,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, opinionated linter, validator, and formatter for Mapbox GL and MapLibre GL style JSON files.",
+            "homepage": null,
             "id": 1234948788,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-15T12:52:42Z",
+            "open_issues": 6,
             "owner": "navidnabavi",
             "repo": "styl",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "cli",
+              "formatter",
+              "geojson",
+              "geospatial",
+              "gis",
+              "linter",
+              "map-style",
+              "mapbox",
+              "maplibre",
+              "rust",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -828,12 +1317,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast",
+            "homepage": null,
             "id": 419152443,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T08:32:52Z",
+            "open_issues": 114,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2158
+            "stars": 2158,
+            "topics": [
+              "maps",
+              "openstreetmap",
+              "osm",
+              "overture",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -844,12 +1344,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make OpenStreetMap vector tiles without the stack",
+            "homepage": "https://tilemaker.org/",
             "id": 38220628,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:49:25Z",
+            "open_issues": 139,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1886
+            "stars": 1885,
+            "topics": [
+              "openstreetmap",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -860,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build vector tilesets from large collections of GeoJSON features.",
+            "homepage": null,
             "id": 525159492,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-14T04:27:09Z",
+            "open_issues": 164,
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1588
+            "stars": 1588,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -876,12 +1389,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Importer and Exporter of MBTiles",
+            "homepage": "http://mapbox.com/developers/",
             "id": 1363607,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-07T19:18:13Z",
+            "open_issues": 17,
             "owner": "mapbox",
             "repo": "mbutil",
-            "stars": 826
+            "stars": 826,
+            "topics": [
+              "satellite"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -892,12 +1412,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "View mbtiles locally",
+            "homepage": null,
             "id": 58169665,
             "language": "EJS",
+            "license": "ISC",
             "last_commit": "2021-05-23T20:11:01Z",
+            "open_issues": 15,
             "owner": "mapbox",
             "repo": "mbview",
-            "stars": 404
+            "stars": 404,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -908,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indexes points and lines and generates map tiles to display them",
+            "homepage": null,
             "id": 10353962,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2014-08-19T19:29:02Z",
+            "open_issues": 4,
             "owner": "e-n-f",
             "repo": "datamaps",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -924,12 +1454,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dump vector tiles to GeoJSON",
+            "homepage": null,
             "id": 43922806,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-06-29T15:25:32Z",
+            "open_issues": 3,
             "owner": "mapbox",
             "repo": "vt2geojson",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "conversion",
+              "geojson",
+              "mapbox",
+              "serialization",
+              "tile",
+              "vector",
+              "vector-tile",
+              "view"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -940,12 +1484,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A no nonsense Vector Tile pipeline",
+            "homepage": null,
             "id": 83418802,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-21T20:56:41Z",
+            "open_issues": 10,
             "owner": "Geovation",
             "repo": "tiler",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "converter",
+              "docker-container",
+              "dockerfile",
+              "geojson",
+              "mbtiles",
+              "ogr2ogr",
+              "python",
+              "shapefile",
+              "tile",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -956,12 +1516,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate vector tiles for the entire planet on relatively low spec hardware.",
+            "homepage": "https://wiki.openstreetmap.org/wiki/Sequentially-generate-planet-mbtiles",
             "id": 474476526,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-29T11:00:11Z",
+            "open_issues": 14,
             "owner": "lambdajack",
             "repo": "sequentially-generate-planet-mbtiles",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "generate",
+              "mbtiles",
+              "planet",
+              "self-host",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -972,12 +1543,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cuts a file pyramid of static vector tiles from a geojson file. ",
+            "homepage": null,
             "id": 83908064,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-02-14T19:48:34Z",
+            "open_issues": 6,
             "owner": "NYCPlanning",
             "repo": "labs-geojson2mvt",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "labs"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -988,12 +1566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract GeoJSON from Mapbox vector tiles.",
+            "homepage": null,
             "id": 33996805,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-01-27T07:19:59Z",
+            "open_issues": 3,
             "owner": "developmentseed",
             "repo": "vt-geojson",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1004,12 +1587,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Processing geo data is no fun. Grandine changes this.",
+            "homepage": null,
             "id": 84297629,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-04T14:13:47Z",
+            "open_issues": 1,
             "owner": "thomersch",
             "repo": "grandine",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "gis",
+              "openstreetmap",
+              "spatial",
+              "tiles",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1020,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternate command line interface to tilelive",
+            "homepage": null,
             "id": 20275159,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-10T20:44:07Z",
+            "open_issues": 14,
             "owner": "sethfitz",
             "repo": "tl",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1036,12 +1635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 CLI tool to reduce and simplify Vector Tile features in an MBTiles container",
+            "homepage": null,
             "id": 73417614,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2019-11-06T00:40:11Z",
+            "open_issues": 4,
             "owner": "rastapasta",
             "repo": "tileshrink",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1052,12 +1656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dump vector tiles to GeoJSON from remote URLs or local system files.",
+            "homepage": null,
             "id": 175258530,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-01-20T09:14:26Z",
+            "open_issues": 3,
             "owner": "Amyantis",
             "repo": "python-vt2geojson",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1068,12 +1677,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for filtering vector mbitles files according to Mapbox GL styles",
+            "homepage": null,
             "id": 138433172,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-12T16:26:51Z",
+            "open_issues": 1,
             "owner": "ondrap",
             "repo": "mapbox-filter",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "mapbox-gl",
+              "mapbox-vector-tile",
+              "mbtiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1084,12 +1702,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tool to procedurally prime XYZ tile caches to a given zoom level.",
+            "homepage": null,
             "id": 293858310,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-23T13:18:43Z",
+            "open_issues": 3,
             "owner": "dechristopher",
             "repo": "xyz",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cache",
+              "gis",
+              "map",
+              "maps",
+              "mvt",
+              "open",
+              "osm",
+              "png",
+              "primer",
+              "raster",
+              "street",
+              "tile",
+              "vector",
+              "xyz"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1100,12 +1738,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostGIS vector tile pipeline with incremental MBTiles updates via LISTEN/NOTIFY",
+            "homepage": null,
             "id": 1174884425,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:45:25Z",
+            "open_issues": 1,
             "owner": "muimsd",
             "repo": "tilefeed",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "gis",
+              "mapbox-gl",
+              "maplibre-gl",
+              "mbtiles",
+              "pmtiles",
+              "postgis",
+              "postgres",
+              "rust",
+              "tile-server",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1116,12 +1770,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool to dump Mapbox Vector Tiles to GeoJSON.",
+            "homepage": null,
             "id": 245415679,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-02-20T21:57:36Z",
+            "open_issues": 1,
             "owner": "wangyoucao577",
             "repo": "vt2geojson",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "geojson",
+              "mapbox",
+              "tile",
+              "vector",
+              "vector-tile",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1132,12 +1798,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mapbox mbtiles viewer and debug server",
+            "homepage": null,
             "id": 1167917623,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-27T15:06:03Z",
+            "open_issues": 0,
             "owner": "ATofighi",
             "repo": "mbview-go",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "mapbox",
+              "mbtiles",
+              "mbview",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -1154,12 +1830,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draw tools for mapbox-gl-js",
+            "homepage": "https://www.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/",
             "id": 29943859,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-08-24T11:43:05Z",
+            "open_issues": 245,
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
-            "stars": 1083
+            "stars": 1083,
+            "topics": [
+              "drawing",
+              "javascript",
+              "mapbox-gl",
+              "mapbox-gl-js"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1170,12 +1856,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript npm package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.",
+            "homepage": "https://map-gl-offline-demo.netlify.app/",
             "id": 937531039,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:45:35Z",
+            "open_issues": 1,
             "owner": "muimsd",
             "repo": "map-gl-offline",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "gis",
+              "mapbox-gl",
+              "maplibre-gl",
+              "mbtiles",
+              "offline",
+              "offline-first",
+              "pwa",
+              "service-worker",
+              "typescript",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1186,12 +1888,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable style switcher control for Mapbox GL JS and MapLibre GL JS",
+            "homepage": "https://map-gl-style-switcher.netlify.app/",
             "id": 1002485316,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T19:39:28Z",
+            "open_issues": 1,
             "owner": "muimsd",
             "repo": "map-gl-style-switcher",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "basemap-switcher",
+              "gis",
+              "map-control",
+              "mapbox-gl",
+              "maplibre-gl",
+              "npm-package",
+              "style-switcher",
+              "switcher",
+              "typescript",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -1208,12 +1926,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.",
+            "homepage": "https://martin.maplibre.org",
             "id": 105363726,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:59:18Z",
+            "open_issues": 71,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3878
+            "stars": 3880,
+            "topics": [
+              "hacktoberfest",
+              "leaflet",
+              "mapbox-gl",
+              "mapbox-gl-js",
+              "mapbox-vector-tile",
+              "maplibre",
+              "maplibre-gl-js",
+              "maps",
+              "mbtiles",
+              "pmtiles",
+              "postgis",
+              "postgresql",
+              "rust",
+              "vector-tiles",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1224,12 +1963,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.",
+            "homepage": "https://tileserver.readthedocs.io/en/latest/",
             "id": 52776929,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T19:36:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:54:01Z",
+            "open_issues": 270,
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2890
+            "stars": 2890,
+            "topics": [
+              "docker",
+              "gl-styles",
+              "mapbox-gl-js",
+              "maplibre-gl-js",
+              "openmaptiles",
+              "raster-map",
+              "tileserver",
+              "tileserver-gl",
+              "vector-tiles",
+              "wmts"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1240,12 +1995,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tegola is a Mapbox Vector Tile server written in Go",
+            "homepage": "http://tegola.io/",
             "id": 59313726,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-20T22:49:29Z",
+            "open_issues": 181,
             "owner": "go-spatial",
             "repo": "tegola",
-            "stars": 1502
+            "stars": 1502,
+            "topics": [
+              "gis",
+              "golang",
+              "mapbox-vector-tile",
+              "mvt",
+              "openlayers",
+              "postgis",
+              "vector-tiles",
+              "wkb"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1256,12 +2025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.",
+            "homepage": null,
             "id": 225944989,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T17:47:55Z",
+            "open_issues": 42,
             "owner": "CrunchyData",
             "repo": "pg_tileserv",
-            "stars": 1059
+            "stars": 1059,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1272,12 +2046,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic Go server for mbtiles",
+            "homepage": null,
             "id": 26041451,
             "language": "Go",
+            "license": "ISC",
             "last_commit": "2025-05-21T15:32:25Z",
+            "open_issues": 23,
             "owner": "consbio",
             "repo": "mbtileserver",
-            "stars": 788
+            "stars": 788,
+            "topics": [
+              "go",
+              "mbtiles",
+              "tilejson",
+              "tilesets",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1288,12 +2073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A stylish alternative for caching your map tiles.",
+            "homepage": "http://tilestache.org",
             "id": 592276,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-07T08:59:56Z",
+            "open_issues": 135,
             "owner": "TileStache",
             "repo": "TileStache",
-            "stars": 765
+            "stars": 765,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1304,12 +2094,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "t-rex is a vector tile server specialized on publishing MVT tiles from your own data",
+            "homepage": "http://t-rex.bbox.earth/",
             "id": 58957660,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-09-24T14:17:05Z",
+            "open_issues": 54,
             "owner": "t-rex-tileserver",
             "repo": "t-rex",
-            "stars": 577
+            "stars": 577,
+            "topics": [
+              "database",
+              "mapbox-gl-js",
+              "openlayers",
+              "tile-cache",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1320,12 +2121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer",
+            "homepage": null,
             "id": 11378786,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-28T19:31:26Z",
+            "open_issues": 88,
             "owner": "locana-co",
             "repo": "PGRestAPI",
-            "stars": 433
+            "stars": 433,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1336,12 +2142,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pluggable Node.js map tile server.",
+            "homepage": null,
             "id": 27924727,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-21T19:26:45Z",
+            "open_issues": 8,
             "owner": "naturalatlas",
             "repo": "tilestrata",
-            "stars": 426
+            "stars": 426,
+            "topics": [
+              "maps",
+              "tile-server"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1352,12 +2166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tilelive-based tile server.",
+            "homepage": null,
             "id": 14215357,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-02T06:50:25Z",
+            "open_issues": 29,
             "owner": "sethfitz",
             "repo": "tessera",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1368,12 +2187,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Map Tile Server",
+            "homepage": "https://www.mediawiki.org/wiki/Maps",
             "id": 34038211,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-11T04:00:27Z",
+            "open_issues": 33,
             "owner": "kartotherian",
             "repo": "kartotherian",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "openstreetmap",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1384,12 +2211,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PostGIS based Vector Tile server.",
+            "homepage": "https://developmentseed.org/timvt/",
             "id": 263787865,
             "language": "PLpgSQL",
+            "license": "MIT",
             "last_commit": "2026-04-01T23:26:10Z",
+            "open_issues": 12,
             "owner": "developmentseed",
             "repo": "timvt",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "asyncio",
+              "fastapi",
+              "postgis",
+              "postgresql",
+              "python",
+              "tile-server",
+              "vector",
+              "vector-tile-server",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1400,12 +2242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a light and quick nodejs vector tile server for use with a postgis backend",
+            "homepage": null,
             "id": 21664546,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-04T19:47:03Z",
+            "open_issues": 17,
             "owner": "faradayio",
             "repo": "tilesplash",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1416,12 +2263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BBOX services",
+            "homepage": "https://www.bbox.earth/",
             "id": 490317737,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-11T20:31:50Z",
+            "open_issues": 21,
             "owner": "bbox-services",
             "repo": "bbox",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1432,12 +2284,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mapbox Vector Tile (MVT) map tiling server with built-in clustering and filtering",
+            "homepage": null,
             "id": 215876544,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-23T14:51:38Z",
+            "open_issues": 29,
             "owner": "chargetrip",
             "repo": "clusterbuster",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "clustering-algorithm",
+              "geospatial",
+              "mapbox-vector-tile",
+              "maps",
+              "mercator-projection",
+              "mvt",
+              "openstreetmap",
+              "openstreetmap-protobuffer-format",
+              "postgis",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1448,12 +2316,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Node.js Mapbox Vector Tiles server",
+            "homepage": null,
             "id": 75525864,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-23T22:23:47Z",
+            "open_issues": 12,
             "owner": "urbica",
             "repo": "tessella",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "docker",
+              "map",
+              "mapbox-vector-tiles",
+              "mbtiles",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1464,12 +2343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight tileserver to share code paths with tilequeue for tile generation.",
+            "homepage": null,
             "id": 39157654,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-30T17:59:43Z",
+            "open_issues": 6,
             "owner": "tilezen",
             "repo": "tileserver",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1480,12 +2364,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve mapbox vectortiles via AWS stack",
+            "homepage": null,
             "id": 195643617,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-08T23:04:36Z",
+            "open_issues": 7,
             "owner": "henrythasler",
             "repo": "cloud-tileserver",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "aws-lambda",
+              "gis",
+              "mapbox-vector-tile",
+              "mvt",
+              "openstreetmap",
+              "postgis",
+              "postgres",
+              "terraform-aws",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1496,12 +2395,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PostGIS based Vector Tile server with caching and filtering.",
+            "homepage": null,
             "id": 506452095,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-08T21:06:36Z",
+            "open_issues": 1,
             "owner": "mkeller3",
             "repo": "FastVector",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "asyncpg",
+              "fastapi",
+              "leaflet",
+              "mapbox",
+              "mapbox-vector-tile",
+              "maplibre",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "python",
+              "tile-server",
+              "tiles",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1512,12 +2430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example go server for serving vector tiles",
+            "homepage": null,
             "id": 62597157,
             "language": "Go",
+            "license": null,
             "last_commit": "2016-07-30T06:20:45Z",
+            "open_issues": 2,
             "owner": "vicapow",
             "repo": "go-vtile-example",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1528,12 +2451,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve Mapbox Vector Tiles with Django and Postgres",
+            "homepage": null,
             "id": 192395627,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-18T16:12:32Z",
+            "open_issues": 10,
             "owner": "corteva",
             "repo": "djangorestframework-mvt",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "django",
+              "django-rest-framework",
+              "mapbox",
+              "postgis",
+              "postgres",
+              "python3",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1544,12 +2480,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One platform for publishing cartographic resources from PostGIS.",
+            "homepage": null,
             "id": 690617644,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T16:40:01Z",
+            "open_issues": 0,
             "owner": "mvt-proj",
             "repo": "mvt-rs",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cartography",
+              "geospatial",
+              "gis",
+              "maplibre",
+              "postgis",
+              "qgis",
+              "rust",
+              "vector-tiles",
+              "webgis"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1560,12 +2511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro vector tile manufacturing from PostGIS.",
+            "homepage": "http://utilery.readthedocs.org/en/latest/",
             "id": 40541767,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-01T10:34:41Z",
+            "open_issues": 6,
             "owner": "tilery",
             "repo": "utilery",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1576,12 +2532,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use the ST_AsMVT function to render tiles directly in Postgres",
+            "homepage": null,
             "id": 90318178,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-24T12:46:22Z",
+            "open_issues": 0,
             "owner": "openmaptiles",
             "repo": "postserve",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1592,12 +2553,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maptoolkit Community License. Stunning vector maps. Zero cost.",
+            "homepage": "https://www.maptoolkit.org",
             "id": 1263087729,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T10:00:35Z",
+            "open_issues": 0,
             "owner": "maptoolkit",
             "repo": "maptoolkit.org",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "free-vector-tile-server",
+              "maplibre",
+              "maps",
+              "maps-api",
+              "openstreetmap",
+              "osm",
+              "tileserver",
+              "vector-tile-server",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1608,12 +2584,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable, multi-backend geo vector tile server",
+            "homepage": null,
             "id": 135324487,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-03T04:45:18Z",
+            "open_issues": 18,
             "owner": "StationA",
             "repo": "tilenol",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "elasticsearch",
+              "geospatial",
+              "mapbox-vector-tile",
+              "postgis"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1624,12 +2610,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LOD is an intelligent map tile caching proxy for the edge.",
+            "homepage": "https://lod.tile.fund",
             "id": 375317258,
             "language": "Go",
-            "last_commit": "2026-08-28T21:49:05Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:13:30Z",
+            "open_issues": 12,
             "owner": "dechristopher",
             "repo": "lod",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "cache",
+              "gis",
+              "go",
+              "lod",
+              "map",
+              "mapbox-vector-tile",
+              "mvt",
+              "openstreetmap",
+              "proxy",
+              "redis",
+              "server",
+              "tile",
+              "vector",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1640,12 +2646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell Tile Server",
+            "homepage": "https://zellige.github.io/hastile",
             "id": 67577232,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-20T13:42:53Z",
+            "open_issues": 9,
             "owner": "zellige",
             "repo": "hastile",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1656,12 +2667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nginx module to serve map tiles directly from mbtiles container files",
+            "homepage": null,
             "id": 289935997,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-03-06T22:14:51Z",
+            "open_issues": 1,
             "owner": "durkie",
             "repo": "ngx_http_mbtiles_module",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1672,12 +2688,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From a osm2pgsql-imported rendering PostgreSQL+PostGIS database, serve omt-schema vectortiles",
+            "homepage": "https://feludwig.github.io/pgsql-omt-schema/",
             "id": 696864103,
             "language": "PLpgSQL",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-31T08:54:38Z",
+            "open_issues": 0,
             "owner": "feludwig",
             "repo": "pgsql-omt-schema",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "gis",
+              "openmaptiles",
+              "osm2pgsql",
+              "postgis",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -1694,12 +2721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serialize Mapbox Vector Tiles to binary protobufs in javascript.",
+            "homepage": null,
             "id": 39534398,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-17T21:48:37Z",
+            "open_issues": 10,
             "owner": "mapbox",
             "repo": "vt-pbf",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1710,12 +2742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist vector tile decoder and encoder in C++",
+            "homepage": null,
             "id": 103062460,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-30T07:32:37Z",
+            "open_issues": 1,
             "owner": "mapbox",
             "repo": "vtzero",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1726,12 +2763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python MapLibre GL Native Static Renderer",
+            "homepage": null,
             "id": 438869650,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-09-30T19:47:36Z",
+            "open_issues": 8,
             "owner": "brendan-ward",
             "repo": "pymgl",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1742,12 +2784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suite of valid and invalid Mapbox Vector Tiles",
+            "homepage": null,
             "id": 64881173,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-29T15:02:04Z",
+            "open_issues": 8,
             "owner": "mapbox",
             "repo": "mvt-fixtures",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1758,12 +2805,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluate a Mapbox GL style function",
+            "homepage": null,
             "id": 30678362,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-17T19:58:52Z",
+            "open_issues": 1,
             "owner": "mapbox",
             "repo": "mapbox-gl-function",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "banished"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -1780,12 +2834,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make OpenStreetMap vector tiles without the stack",
+            "homepage": "https://tilemaker.org/",
             "id": 38220628,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:49:25Z",
+            "open_issues": 139,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1886
+            "stars": 1885,
+            "topics": [
+              "openstreetmap",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1796,12 +2858,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Serverless Vector Tiles on AWS",
+            "homepage": null,
             "id": 144558574,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-09-11T04:02:23Z",
+            "open_issues": 1,
             "owner": "addresscloud",
             "repo": "serverless-tiles",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1812,12 +2879,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMapTiles import procedure and configuration for the Tegola tileserver.",
+            "homepage": "https://dchr.host",
             "id": 366051493,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-17T20:47:09Z",
+            "open_issues": 1,
             "owner": "dechristopher",
             "repo": "tegola-omt",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "go",
+              "imposm",
+              "imposm3",
+              "map",
+              "mapbox",
+              "maplibre",
+              "maplibre-gl-js",
+              "mvt",
+              "omt",
+              "openmaptiles",
+              "openstreetmap",
+              "osm",
+              "postgres",
+              "postgresql",
+              "tegola",
+              "tile",
+              "vector"
+            ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         }
@@ -1826,15 +2916,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:50:20.505Z",
+    "last_updated": "2026-08-29T04:20:48.294Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome implementations of the Mapbox Vector Tile specification",
+      "homepage": "https://www.mapbox.com/developers/vector-tiles/",
       "id": 41861984,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-10T19:17:38Z",
+      "open_issues": 3,
       "owner": "mapbox",
       "repo": "awesome-vector-tiles",
-      "stars": 2622
+      "stars": 2623,
+      "topics": []
     },
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
     "enhanced_repository": "enhansome/enhansome-vector-tiles",
