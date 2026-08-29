@@ -16,7 +16,8 @@
             "owner": "mapbox",
             "repo": "geojson-vt",
             "stars": 2041
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-03-30T15:51:22Z",
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1126
-          }
+            "stars": 1127
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-04-13T23:07:34Z",
             "owner": "mapbox",
             "repo": "mapnik-vector-tile",
-            "stars": 555
-          }
+            "stars": 554
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 1084114,
             "language": "C++",
-            "last_commit": "2026-07-27T09:03:36Z",
+            "last_commit": "2026-08-28T14:07:26Z",
             "owner": "mapnik",
             "repo": "node-mapnik",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mapbox",
             "repo": "vector-tile-js",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "tilezen",
             "repo": "mapbox-vector-tile",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ElectronicChartCentre",
             "repo": "java-vector-tile",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "wdtinc",
             "repo": "mapbox-vector-tile-java",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "bertt",
             "repo": "mapbox-vector-tile-cs",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mapbox",
             "repo": "tilelive-vector",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "rastapasta",
             "repo": "tilegrinder",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mapbox",
             "repo": "vector-tile-cs",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mapbox",
             "repo": "tilelive-bridge",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "geometalab",
             "repo": "geojson2vt",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "TimSC",
             "repo": "mbtiles-cpp",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "mapbox",
             "repo": "vector-tile-py",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "bahung1221",
             "repo": "dart-vector-tile",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "DenysMoskalenko",
             "repo": "vt2pbf",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "manimaul",
             "repo": "SwiftVectorTiles",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "developmentseed",
             "repo": "cached-vector-tile",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "heymoon-cc",
             "repo": "php-vector-tile-data-provider",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "landyrev",
             "repo": "vtzero-dart",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Parsers & Generators"
@@ -348,11 +370,12 @@
             "archived": false,
             "id": 8629417,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:53:15Z",
+            "last_commit": "2026-08-28T13:09:38Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12391
-          }
+            "stars": 12392
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -363,11 +386,12 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:20:26Z",
+            "last_commit": "2026-08-28T21:32:51Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11469
-          }
+            "stars": 11480
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "mapbox",
             "repo": "mapbox-gl-native",
             "stars": 4453
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "tangrams",
             "repo": "tangram",
             "stars": 2334
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "tangrams",
             "repo": "tangram-es",
             "stars": 873
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "mousebird-consulting-inc",
             "repo": "WhirlyGlobe",
             "stars": 845
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "SpatialServer",
             "repo": "Leaflet.MapboxVectorTile",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "rastapasta",
             "repo": "mapscii",
             "stars": 9228
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "nitaliano",
             "repo": "react-native-mapbox-gl",
             "stars": 2170
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "iTowns",
             "repo": "itowns",
             "stars": 1266
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -501,8 +533,9 @@
             "last_commit": "2025-01-09T18:01:02Z",
             "owner": "Leaflet",
             "repo": "Leaflet.VectorGrid",
-            "stars": 675
-          }
+            "stars": 676
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "mapbox",
             "repo": "mapbox-gl-leaflet",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "AliFlux",
             "repo": "VectorTileRenderer",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "landtechnologies",
             "repo": "Mapbox-vector-tiles-basic-js-renderer",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "summer4096",
             "repo": "hoverboard",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -573,11 +610,12 @@
             "archived": false,
             "id": 1249253355,
             "language": "Swift",
-            "last_commit": "2026-08-27T15:14:26Z",
+            "last_commit": "2026-08-28T14:30:12Z",
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "tumic0",
             "repo": "QtPBFImagePlugin",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "rinigus",
             "repo": "mapbox-gl-qml",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "techjb",
             "repo": "Vector-Tiles-Google-Maps",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "muimsd",
             "repo": "esri-gl",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Clients"
@@ -654,11 +696,12 @@
             "archived": false,
             "id": 67726921,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:55:02Z",
+            "last_commit": "2026-08-28T14:43:29Z",
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2613
-          }
+            "stars": 2614
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "mapbox",
             "repo": "mapbox-studio-classic",
             "stars": 1139
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "kosmtik",
             "repo": "kosmtik",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "go-spatial",
             "repo": "fresco",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "geometalab",
             "repo": "Vector-Tiles-Reader-QGIS-Plugin",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "lukasmartinelli",
             "repo": "mapbox-gl-inspect",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "spider-hand",
             "repo": "vector-tile-lab",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "navidnabavi",
             "repo": "styl",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Applications / Command line tools"
@@ -783,8 +833,9 @@
             "last_commit": "2026-08-18T08:32:52Z",
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2157
-          }
+            "stars": 2158
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -798,8 +849,9 @@
             "last_commit": "2026-08-27T15:49:25Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1884
-          }
+            "stars": 1886
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "felt",
             "repo": "tippecanoe",
             "stars": 1588
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "mapbox",
             "repo": "mbutil",
             "stars": 826
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "mapbox",
             "repo": "mbview",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "e-n-f",
             "repo": "datamaps",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "mapbox",
             "repo": "vt2geojson",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "Geovation",
             "repo": "tiler",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "lambdajack",
             "repo": "sequentially-generate-planet-mbtiles",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "NYCPlanning",
             "repo": "labs-geojson2mvt",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "developmentseed",
             "repo": "vt-geojson",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "thomersch",
             "repo": "grandine",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "sethfitz",
             "repo": "tl",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "rastapasta",
             "repo": "tileshrink",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1058,8 @@
             "owner": "Amyantis",
             "repo": "python-vt2geojson",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1074,8 @@
             "owner": "ondrap",
             "repo": "mapbox-filter",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1090,8 @@
             "owner": "dechristopher",
             "repo": "xyz",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1106,8 @@
             "owner": "muimsd",
             "repo": "tilefeed",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1122,8 @@
             "owner": "wangyoucao577",
             "repo": "vt2geojson",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "ATofighi",
             "repo": "mbview-go",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "CLI Utilities"
@@ -1090,7 +1160,8 @@
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
             "stars": 1083
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1176,8 @@
             "owner": "muimsd",
             "repo": "map-gl-offline",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1192,8 @@
             "owner": "muimsd",
             "repo": "map-gl-style-switcher",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Mapbox GL JS Plugins"
@@ -1137,11 +1210,12 @@
             "archived": false,
             "id": 105363726,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:05:38Z",
+            "last_commit": "2026-08-28T20:59:18Z",
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3874
-          }
+            "stars": 3878
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1152,11 +1226,12 @@
             "archived": false,
             "id": 52776929,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T23:13:59Z",
+            "last_commit": "2026-08-28T19:36:17Z",
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2888
-          }
+            "stars": 2890
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1170,8 +1245,9 @@
             "last_commit": "2026-08-20T22:49:29Z",
             "owner": "go-spatial",
             "repo": "tegola",
-            "stars": 1501
-          }
+            "stars": 1502
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1262,8 @@
             "owner": "CrunchyData",
             "repo": "pg_tileserv",
             "stars": 1059
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1200,8 +1277,9 @@
             "last_commit": "2025-05-21T15:32:25Z",
             "owner": "consbio",
             "repo": "mbtileserver",
-            "stars": 789
-          }
+            "stars": 788
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1294,8 @@
             "owner": "TileStache",
             "repo": "TileStache",
             "stars": 765
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1310,8 @@
             "owner": "t-rex-tileserver",
             "repo": "t-rex",
             "stars": 577
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1326,8 @@
             "owner": "locana-co",
             "repo": "PGRestAPI",
             "stars": 433
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1342,8 @@
             "owner": "naturalatlas",
             "repo": "tilestrata",
             "stars": 426
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1358,8 @@
             "owner": "sethfitz",
             "repo": "tessera",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1374,8 @@
             "owner": "kartotherian",
             "repo": "kartotherian",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1390,8 @@
             "owner": "developmentseed",
             "repo": "timvt",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1406,8 @@
             "owner": "faradayio",
             "repo": "tilesplash",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1422,8 @@
             "owner": "bbox-services",
             "repo": "bbox",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1438,8 @@
             "owner": "chargetrip",
             "repo": "clusterbuster",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1454,8 @@
             "owner": "urbica",
             "repo": "tessella",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1470,8 @@
             "owner": "tilezen",
             "repo": "tileserver",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1486,8 @@
             "owner": "henrythasler",
             "repo": "cloud-tileserver",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1502,8 @@
             "owner": "mkeller3",
             "repo": "FastVector",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1518,8 @@
             "owner": "vicapow",
             "repo": "go-vtile-example",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1534,8 @@
             "owner": "corteva",
             "repo": "djangorestframework-mvt",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1550,8 @@
             "owner": "mvt-proj",
             "repo": "mvt-rs",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1566,8 @@
             "owner": "tilery",
             "repo": "utilery",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1582,8 @@
             "owner": "openmaptiles",
             "repo": "postserve",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1598,8 @@
             "owner": "maptoolkit",
             "repo": "maptoolkit.org",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1614,8 @@
             "owner": "StationA",
             "repo": "tilenol",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1527,11 +1626,12 @@
             "archived": false,
             "id": 375317258,
             "language": "Go",
-            "last_commit": "2026-08-27T20:56:30Z",
+            "last_commit": "2026-08-28T21:49:05Z",
             "owner": "dechristopher",
             "repo": "lod",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1646,8 @@
             "owner": "zellige",
             "repo": "hastile",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1662,8 @@
             "owner": "durkie",
             "repo": "ngx_http_mbtiles_module",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1678,8 @@
             "owner": "feludwig",
             "repo": "pgsql-omt-schema",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Servers"
@@ -1597,7 +1700,8 @@
             "owner": "mapbox",
             "repo": "vt-pbf",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1716,8 @@
             "owner": "mapbox",
             "repo": "vtzero",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1732,8 @@
             "owner": "brendan-ward",
             "repo": "pymgl",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1748,8 @@
             "owner": "mapbox",
             "repo": "mvt-fixtures",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1764,8 @@
             "owner": "mapbox",
             "repo": "mapbox-gl-function",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Low-level utilities"
@@ -1677,8 +1785,9 @@
             "last_commit": "2026-08-27T15:49:25Z",
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1884
-          }
+            "stars": 1886
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1802,8 @@
             "owner": "addresscloud",
             "repo": "serverless-tiles",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         },
         {
           "node_type": "item",
@@ -1708,14 +1818,15 @@
             "owner": "dechristopher",
             "repo": "tegola-omt",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
         }
       ],
       "title": "Articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:16:35.912Z",
+    "last_updated": "2026-08-29T01:50:20.505Z",
     "original_repository_info": {
       "archived": false,
       "id": 41861984,
