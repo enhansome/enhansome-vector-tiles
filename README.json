@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2045,
+            "stars": 2044,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -524,7 +524,7 @@
             "open_issues": 1458,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12395,
+            "stars": 12397,
             "topics": [
               "3d",
               "javascript",
@@ -547,11 +547,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:07:46Z",
-            "open_issues": 390,
+            "last_commit": "2026-09-05T20:05:51Z",
+            "open_issues": 293,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11535,
+            "stars": 11543,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -579,7 +579,7 @@
             "open_issues": 312,
             "owner": "mapbox",
             "repo": "mapbox-gl-native",
-            "stars": 4453,
+            "stars": 4452,
             "topics": [
               "android",
               "c-plus-plus",
@@ -742,7 +742,7 @@
             "open_issues": 52,
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9231,
+            "stars": 9232,
             "topics": [
               "ascii-art",
               "braille",
@@ -939,7 +939,7 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:02:12Z",
+            "last_commit": "2026-09-05T16:05:50Z",
             "open_issues": 2,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
@@ -1107,11 +1107,11 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T20:55:48Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-05T16:24:22Z",
+            "open_issues": 96,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2619,
+            "stars": 2622,
             "topics": [
               "cartography",
               "geo",
@@ -1283,7 +1283,7 @@
             "id": 1234948788,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T12:52:47Z",
+            "last_commit": "2026-09-05T12:52:45Z",
             "open_issues": 7,
             "owner": "navidnabavi",
             "repo": "styl",
@@ -1377,7 +1377,7 @@
             "open_issues": 165,
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1590,
+            "stars": 1591,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -1931,11 +1931,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T20:29:15Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-05T20:09:23Z",
+            "open_issues": 49,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3889,
+            "stars": 3891,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -2916,7 +2916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:56:36.366Z",
+    "last_updated": "2026-09-05T20:36:29.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
