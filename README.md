@@ -5,7 +5,7 @@ data into vector tiles that can be rendered dynamically.
 
 ## Parsers & Generators
 
-* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03 - Slice GeoJSON into vector tiles on the fly in the browser.
+* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-05 - Slice GeoJSON into vector tiles on the fly in the browser.
 * [orb](https://github.com/paulmach/orb) ⭐ 1,130 | 🐛 19 | 🌐 Go | 📅 2026-03-30 - A Go geometry library with mvt <-> geojson support.
 * [mapnik-vector-tile](https://github.com/mapbox/mapnik-vector-tile) ⚠️ Archived - C++ vector tile read/write implementation on top of Mapnik.
 * [node-mapnik](https://github.com/mapnik/node-mapnik) ⭐ 545 | 🐛 104 | 🌐 C++ | 📅 2026-08-30 - Node.js API for vector tiles which depends on `mapnik-vector-tile`
@@ -18,7 +18,7 @@ data into vector tiles that can be rendered dynamically.
 * [tilegrinder](https://github.com/rastapasta/tilegrinder) ⭐ 67 | 🐛 3 | 🌐 CoffeeScript | 📅 2019-11-06 - A helper library for applying a data altering function on each vector tile in an MBTiles, using the native protobuf wrapper for de- and encoding, recompressing the results and storing them either in an MBTiles or as single files.
 * [vector-tile-cs](https://github.com/mapbox/vector-tile-cs) ⭐ 65 | 🐛 15 | 🌐 C# | 📅 2026-06-29 - Parses vector tiles with C# (native C# implementation, no dependencies).
 * [tilelive-bridge](https://github.com/mapbox/tilelive-bridge) ⭐ 63 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-29 - Implements [Tilelive API](https://github.com/mapbox/tilelive.js/blob/master/API.md) ⭐ 540 | 🐛 32 | 🌐 JavaScript | 📅 2026-06-29 for creating vector tiles from traditional Mapnik datasources in Node.js.
-* [geojson2vt](https://github.com/geometalab/geojson2vt) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2021-04-20 - Python port of [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03 to convert GeoJSON into vector tiles.
+* [geojson2vt](https://github.com/geometalab/geojson2vt) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2021-04-20 - Python port of [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-05 to convert GeoJSON into vector tiles.
 * [mbtiles-cpp](https://github.com/TimSC/mbtiles-cpp) ⭐ 37 | 🐛 0 | 🌐 C++ | 📅 2026-05-04 - C++ library for decoding of mbtiles and vector data into function callbacks.
 * [vector-tile-py](https://github.com/mapbox/vector-tile-py) ⚠️ Archived - Python tool to convert a Mapnik vector tile to GeoJSON
 * [dart-vector-tile](https://github.com/saigontek/dart-vector-tile) ⭐ 17 | 🐛 3 | 🌐 Dart | 📅 2026-03-28 - A simple Dart package to encode & decode Mapbox Vector Tile.
@@ -30,8 +30,8 @@ data into vector tiles that can be rendered dynamically.
 
 ## Clients
 
-* [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,397 | 🐛 1,458 | 🌐 TypeScript | 📅 2026-09-04 - JavaScript/WebGL vector maps library.
-* [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) ⭐ 11,543 | 🐛 293 | 🌐 TypeScript | 📅 2026-09-05 - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
+* [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,398 | 🐛 1,458 | 🌐 TypeScript | 📅 2026-09-04 - JavaScript/WebGL vector maps library.
+* [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) ⭐ 11,549 | 🐛 280 | 🌐 TypeScript | 📅 2026-09-06 - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
 * [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native) ⚠️ Archived - C++/OpenGL vector maps library with native SDKs for Android, iOS, Node.js, macOS, and Qt
 * [Mapzen Tangram](https://github.com/tangrams/tangram) ⭐ 2,334 | 🐛 66 | 🌐 JavaScript | 📅 2026-02-08 - JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL, supports MVT, GeoJSON, TopoJSON
 * [Mapzen Tangram-es](https://github.com/tangrams/tangram-es) ⭐ 873 | 🐛 177 | 🌐 C++ | 📅 2024-01-08 - C++ library for rendering 2D and 3D maps using OpenGL ES 2 with custom styling and interactions
@@ -42,7 +42,7 @@ data into vector tiles that can be rendered dynamically.
 
 - [mapscii](https://github.com/rastapasta/mapscii) ⭐ 9,232 | 🐛 52 | 🌐 JavaScript | 📅 2024-11-03 - A Vector Tile to Braille and ASCII renderer for xterm-compatible terminals
 - [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) ⭐ 2,170 | 🐛 224 | 🌐 Java | 📅 2023-03-18 - Render Mapbox GL maps from React applications
-- [iTowns](https://github.com/iTowns/itowns) ⭐ 1,266 | 🐛 291 | 🌐 JavaScript | 📅 2026-09-03 - Three.js based JavaScript library for visualizing 2D vector, raster and 3D geospatial data.
+- [iTowns](https://github.com/iTowns/itowns) ⭐ 1,267 | 🐛 291 | 🌐 JavaScript | 📅 2026-09-03 - Three.js based JavaScript library for visualizing 2D vector, raster and 3D geospatial data.
 - [Leaflet.VectorGrid](https://github.com/IvanSanchez/Leaflet.VectorGrid) ⭐ 676 | 🐛 121 | 🌐 JavaScript | 📅 2025-01-09 - Display gridded vector data (sliced GeoJSON, TopoJSON or Mapbox Vector Tiles) in Leaflet 1.0.0
 - [mapbox-gl-leaflet](https://github.com/mapbox/mapbox-gl-leaflet) ⭐ 546 | 🐛 19 | 🌐 JavaScript | 📅 2026-06-17 - Create Mapbox GL layers in Leaflet
 - [AliFlux VectorTileRenderer](https://github.com/AliFlux/VectorTileRenderer) ⭐ 206 | 🐛 20 | 🌐 C# | 📅 2022-06-22 - A highly customizable vector tile renderer built using C# for .Net platform. Comes with bindings for Mapsui and Gmap.Net components.
@@ -59,7 +59,7 @@ data into vector tiles that can be rendered dynamically.
 
 ## Applications / Command line tools
 
-* [Maputnik](https://github.com/maputnik/editor) ⭐ 2,622 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-05 - A visual style editor for the Mapbox GL style specification.
+* [Maputnik](https://github.com/maputnik/editor) ⭐ 2,623 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-05 - A visual style editor for the Mapbox GL style specification.
 * [Mapbox Studio Classic](https://github.com/mapbox/mapbox-studio) ⚠️ Archived - Desktop design studio for both creating vector tiles from raw geodata and for rendering them on-the-fly into image tiles. Internally uses `tilelive.js` modules to handle vector tiles (see `tilelive-bridge` and `tilelive-vector`) :warning: use [Mapbox Studio](https://www.mapbox.com/mapbox-studio/) instead.
 * [kosmtik](https://github.com/kosmtik/kosmtik) ⭐ 750 | 🐛 112 | 🌐 JavaScript | 📅 2025-03-13 - Design maps with CartoCSS and Mapnik.
 * [Fresco](https://github.com/go-spatial/fresco) ⚠️ Archived - is an open source Mapbox Vector Tile Style editor.
@@ -79,14 +79,14 @@ data into vector tiles that can be rendered dynamically.
 
 * [Planetiler](https://github.com/onthegomap/planetiler) ⭐ 2,165 | 🐛 114 | 🌐 Java | 📅 2026-08-18 - Command-line Java program to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
 * [tilemaker](https://github.com/systemed/tilemaker) ⭐ 1,889 | 🐛 134 | 🌐 C++ | 📅 2026-09-04 - Command line tool to produce vector tiles directly from an .osm.pbf extract without an intermediate database.
-* [tippecanoe](https://github.com/felt/tippecanoe) ⭐ 1,591 | 🐛 165 | 🌐 C++ | 📅 2026-08-31 - Build vector tilesets from large collections of GeoJSON features.
+* [tippecanoe](https://github.com/felt/tippecanoe) ⭐ 1,593 | 🐛 165 | 🌐 C++ | 📅 2026-08-31 - Build vector tilesets from large collections of GeoJSON features.
 * [MBUtil](https://github.com/mapbox/mbutil) ⚠️ Archived - Import and export MBTiles to disk :warning: no longer maintained
 * [mbview](https://github.com/mapbox/mbview) ⚠️ Archived - Watch MBTiles in your localhost. View tiles in a basic Mapbox GL JS webapp locally
 * [Datamaps](https://github.com/ericfischer/datamaps) ⭐ 350 | 🐛 4 | 🌐 C | 📅 2014-08-19 C application that can be used to create vector tiles and store them in an mbtiles. See the `render-vector` command. :warning: no longer maintained, use tippecanoe instead
 * [vt2geojson](https://github.com/mapbox/vt2geojson) ⭐ 156 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-29 - Command line tool and npm package for converting vector tiles into GeoJSON.
 * [tiler @GeoVation](https://github.com/Geovation/tiler) ⚠️ Archived - Command line tool for converting GeoJSON, Shapefiles or PostGIS layer to raw Vector Tiles (or MBTiles)
 * [sequentially-generate-planet-mbtiles](https://github.com/lambdajack/sequentially-generate-planet-mbtiles) ⭐ 114 | 🐛 14 | 🌐 Go | 📅 2023-09-29 - Easily generate planet-scale vector tilesets on low memory / low cpu count devices.
-* [geojson2mvt](https://github.com/NYCPlanning/geojson2mvt) ⚠️ Archived - npm package for building a static vector tile tree for given xyz bounds from a geojson file (uses [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03)
+* [geojson2mvt](https://github.com/NYCPlanning/geojson2mvt) ⚠️ Archived - npm package for building a static vector tile tree for given xyz bounds from a geojson file (uses [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,044 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-05)
 * [vt-geojson](https://github.com/developmentseed/vt-geojson) ⭐ 61 | 🐛 3 | 🌐 JavaScript | 📅 2016-01-27 - decodes vector tiles to GeoJSON FeatureCollections
 * [tiler @thomersch](https://github.com/thomersch/grandine/tree/master/cmd/tiler) ⭐ 52 | 🐛 1 | 🌐 Go | 📅 2022-04-04 - Command line tool to convert GeoJSON to Vector Tiles (written in Go language).
 * [tl](https://github.com/mojodna/tl) ⭐ 37 | 🐛 14 | 🌐 JavaScript | 📅 2018-07-10 - An alternate command line interface to tilelive
@@ -105,12 +105,12 @@ data into vector tiles that can be rendered dynamically.
 ## Mapbox GL JS Plugins
 
 * [gl-draw](https://github.com/mapbox/gl-draw) ⭐ 1,083 | 🐛 246 | 🌐 JavaScript | 📅 2026-08-31 - Adds support for drawing and editing features on Mapbox GL JS maps
-* [map-gl-offline](https://github.com/muimsd/map-gl-offline) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-26 - A TypeScript package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.
+* [map-gl-offline](https://github.com/muimsd/map-gl-offline) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-06 - A TypeScript package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.
 * [map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28 - A customizable style switcher control for Mapbox GL JS and MapLibre GL JS.
 
 ## Servers
 
-* [martin](https://github.com/maplibre/martin) ⭐ 3,891 | 🐛 49 | 🌐 Rust | 📅 2026-09-05 - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
+* [martin](https://github.com/maplibre/martin) ⭐ 3,895 | 🐛 48 | 🌐 Rust | 📅 2026-09-06 - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
 * [tileserver-gl](https://github.com/maptiler/tileserver-gl) ⭐ 2,893 | 🐛 272 | 🌐 JavaScript | 📅 2026-09-03 Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 * [Tegola](https://github.com/go-spatial/tegola) ⭐ 1,503 | 🐛 181 | 🌐 Go | 📅 2026-09-02 - is a vector tile server delivering Mapbox Vector Tiles with support for PostGIS and GeoPackage data providers.
 * [pg\_tileserv](https://github.com/CrunchyData/pg_tileserv) ⭐ 1,061 | 🐛 42 | 🌐 Go | 📅 2025-12-11 - A very thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.
@@ -195,4 +195,4 @@ To the extent possible under law, [Tom MacWright](http://macwright.org) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
