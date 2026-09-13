@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2068,
+            "stars": 2069,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -200,7 +200,7 @@
             "open_issues": 0,
             "owner": "bertt",
             "repo": "mapbox-vector-tile-cs",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "mapbox",
               "vector-tiles"
@@ -273,7 +273,7 @@
             "open_issues": 15,
             "owner": "mapbox",
             "repo": "vector-tile-cs",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -524,7 +524,7 @@
             "open_issues": 1456,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12406,
+            "stars": 12407,
             "topics": [
               "3d",
               "javascript",
@@ -548,10 +548,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T05:48:25Z",
-            "open_issues": 294,
+            "open_issues": 297,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11624,
+            "stars": 11630,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -1111,7 +1111,7 @@
             "open_issues": 93,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2629,
+            "stars": 2630,
             "topics": [
               "cartography",
               "geo",
@@ -1377,7 +1377,7 @@
             "open_issues": 165,
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1600,
+            "stars": 1602,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -1931,11 +1931,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T15:25:18Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-13T15:57:48Z",
+            "open_issues": 48,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3911,
+            "stars": 3912,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -2001,7 +2001,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-09T16:20:18Z",
-            "open_issues": 182,
+            "open_issues": 184,
             "owner": "go-spatial",
             "repo": "tegola",
             "stars": 1504,
@@ -2485,7 +2485,7 @@
             "id": 690617644,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T15:38:35Z",
+            "last_commit": "2026-09-13T00:05:40Z",
             "open_issues": 0,
             "owner": "mvt-proj",
             "repo": "mvt-rs",
@@ -2916,7 +2916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:48:37.954Z",
+    "last_updated": "2026-09-13T21:02:51.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
@@ -2928,7 +2928,7 @@
       "open_issues": 3,
       "owner": "mapbox",
       "repo": "awesome-vector-tiles",
-      "stars": 2626,
+      "stars": 2627,
       "topics": []
     },
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
