@@ -91,7 +91,7 @@
             "open_issues": 104,
             "owner": "mapnik",
             "repo": "node-mapnik",
-            "stars": 545,
+            "stars": 546,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -520,11 +520,11 @@
             "id": 8629417,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T11:14:16Z",
+            "last_commit": "2026-09-21T13:37:59Z",
             "open_issues": 1457,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12413,
+            "stars": 12414,
             "topics": [
               "3d",
               "javascript",
@@ -547,11 +547,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T09:34:24Z",
-            "open_issues": 283,
+            "last_commit": "2026-09-21T08:37:33Z",
+            "open_issues": 286,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11709,
+            "stars": 11714,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -742,7 +742,7 @@
             "open_issues": 52,
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9238,
+            "stars": 9239,
             "topics": [
               "ascii-art",
               "braille",
@@ -1107,11 +1107,11 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:14:09Z",
+            "last_commit": "2026-09-21T14:05:30Z",
             "open_issues": 92,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2636,
+            "stars": 2638,
             "topics": [
               "cartography",
               "geo",
@@ -1322,11 +1322,11 @@
             "id": 419152443,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T10:51:42Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-21T09:45:15Z",
+            "open_issues": 110,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2183,
+            "stars": 2185,
             "topics": [
               "maps",
               "openstreetmap",
@@ -1377,7 +1377,7 @@
             "open_issues": 165,
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1604,
+            "stars": 1606,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -1835,8 +1835,8 @@
             "id": 29943859,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-14T12:22:10Z",
-            "open_issues": 241,
+            "last_commit": "2026-09-21T11:43:08Z",
+            "open_issues": 243,
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
             "stars": 1087,
@@ -1931,11 +1931,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T14:15:57Z",
+            "last_commit": "2026-09-21T21:03:37Z",
             "open_issues": 46,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3931,
+            "stars": 3934,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -1972,7 +1972,7 @@
             "open_issues": 271,
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2902,
+            "stars": 2904,
             "topics": [
               "docker",
               "gl-styles",
@@ -2916,7 +2916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:00:10.856Z",
+    "last_updated": "2026-09-21T22:07:40.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
