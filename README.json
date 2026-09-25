@@ -87,7 +87,7 @@
             "id": 1084114,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T16:58:50Z",
+            "last_commit": "2026-09-25T07:48:41Z",
             "open_issues": 104,
             "owner": "mapnik",
             "repo": "node-mapnik",
@@ -520,7 +520,7 @@
             "id": 8629417,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T12:36:15Z",
+            "last_commit": "2026-09-25T15:36:11Z",
             "open_issues": 1454,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
@@ -547,11 +547,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T19:15:38Z",
-            "open_issues": 292,
+            "last_commit": "2026-09-25T11:22:12Z",
+            "open_issues": 289,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11738,
+            "stars": 11740,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -794,7 +794,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T16:07:05Z",
-            "open_issues": 300,
+            "open_issues": 301,
             "owner": "iTowns",
             "repo": "itowns",
             "stars": 1272,
@@ -908,27 +908,6 @@
         },
         {
           "node_type": "item",
-          "title": "hoverboard",
-          "description": "Render vector tiles on canvas with Leaflet 0.7.x (supports GeoJSON, TopoJSON, and protobuf) :warning: no longer maintained",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Leaflet tile layer for geojson, topojson, and protobuf on canvas",
-            "homepage": null,
-            "id": 27337543,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2025-12-18T21:37:06Z",
-            "open_issues": 6,
-            "owner": "summer4096",
-            "repo": "hoverboard",
-            "stars": 92,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:50:20.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "ImmersiveMap",
           "description": "A Metal-rendered Mapbox Vector Tile map engine for SwiftUI with a 3D globe and flat map, for iOS and macOS.",
           "children": [],
@@ -943,7 +922,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "cartography",
               "geospatial",
@@ -966,6 +945,27 @@
               "swiftui",
               "vector-tiles"
             ]
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hoverboard",
+          "description": "Render vector tiles on canvas with Leaflet 0.7.x (supports GeoJSON, TopoJSON, and protobuf) :warning: no longer maintained",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Leaflet tile layer for geojson, topojson, and protobuf on canvas",
+            "homepage": null,
+            "id": 27337543,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2025-12-18T21:37:06Z",
+            "open_issues": 6,
+            "owner": "summer4096",
+            "repo": "hoverboard",
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1108,7 +1108,7 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:54:26Z",
+            "last_commit": "2026-09-25T14:02:11Z",
             "open_issues": 92,
             "owner": "maplibre",
             "repo": "maputnik",
@@ -1327,7 +1327,7 @@
             "open_issues": 112,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2189,
+            "stars": 2190,
             "topics": [
               "maps",
               "openstreetmap",
@@ -1378,7 +1378,7 @@
             "open_issues": 166,
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1608,
+            "stars": 1609,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -1932,11 +1932,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T00:18:10Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-25T20:40:32Z",
+            "open_issues": 33,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3941,
+            "stars": 3944,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -2490,7 +2490,7 @@
             "open_issues": 0,
             "owner": "mvt-proj",
             "repo": "mvt-rs",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "cartography",
               "geospatial",
@@ -2616,7 +2616,7 @@
             "id": 375317258,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T13:37:44Z",
+            "last_commit": "2026-09-24T22:48:17Z",
             "open_issues": 13,
             "owner": "dechristopher",
             "repo": "lod",
@@ -2917,7 +2917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:42:36.392Z",
+    "last_updated": "2026-09-25T21:45:28.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
