@@ -1324,7 +1324,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T11:18:01Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "onthegomap",
             "repo": "planetiler",
             "stars": 2193,
@@ -1936,7 +1936,7 @@
             "open_issues": 32,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 3963,
+            "stars": 3964,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -2855,7 +2855,7 @@
         {
           "node_type": "item",
           "title": "Serverless Vector Tiles on AWS",
-          "description": null,
+          "description": "addresscloud/serverless-tiles",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2917,7 +2917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:27:47.138Z",
+    "last_updated": "2026-10-03T05:13:08.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",

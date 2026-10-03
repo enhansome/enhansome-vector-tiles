@@ -77,7 +77,7 @@ data into vector tiles that can be rendered dynamically.
 
 ## CLI Utilities
 
-* [Planetiler](https://github.com/onthegomap/planetiler) ⭐ 2,193 | 🐛 115 | 🌐 Java | 📅 2026-09-30 - Command-line Java program to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
+* [Planetiler](https://github.com/onthegomap/planetiler) ⭐ 2,193 | 🐛 116 | 🌐 Java | 📅 2026-09-30 - Command-line Java program to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
 * [tilemaker](https://github.com/systemed/tilemaker) ⭐ 1,900 | 🐛 135 | 🌐 C++ | 📅 2026-09-04 - Command line tool to produce vector tiles directly from an .osm.pbf extract without an intermediate database.
 * [tippecanoe](https://github.com/felt/tippecanoe) ⭐ 1,612 | 🐛 168 | 🌐 C++ | 📅 2026-09-26 - Build vector tilesets from large collections of GeoJSON features.
 * [MBUtil](https://github.com/mapbox/mbutil) ⚠️ Archived - Import and export MBTiles to disk :warning: no longer maintained
@@ -110,7 +110,7 @@ data into vector tiles that can be rendered dynamically.
 
 ## Servers
 
-* [martin](https://github.com/maplibre/martin) ⭐ 3,963 | 🐛 32 | 🌐 Rust | 📅 2026-10-02 - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
+* [martin](https://github.com/maplibre/martin) ⭐ 3,964 | 🐛 32 | 🌐 Rust | 📅 2026-10-02 - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
 * [tileserver-gl](https://github.com/maptiler/tileserver-gl) ⭐ 2,905 | 🐛 272 | 🌐 JavaScript | 📅 2026-09-30 Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 * [Tegola](https://github.com/go-spatial/tegola) ⭐ 1,505 | 🐛 185 | 🌐 Go | 📅 2026-09-18 - is a vector tile server delivering Mapbox Vector Tiles with support for PostGIS and GeoPackage data providers.
 * [pg\_tileserv](https://github.com/CrunchyData/pg_tileserv) ⭐ 1,062 | 🐛 42 | 🌐 Go | 📅 2025-12-11 - A very thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.
@@ -195,4 +195,4 @@ To the extent possible under law, [Tom MacWright](http://macwright.org) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
