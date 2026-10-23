@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1139,
+            "stars": 1140,
             "topics": [
               "2d",
               "geo",
@@ -520,11 +520,11 @@
             "id": 8629417,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T14:01:05Z",
+            "last_commit": "2026-10-23T11:59:50Z",
             "open_issues": 1457,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12451,
+            "stars": 12452,
             "topics": [
               "3d",
               "javascript",
@@ -547,11 +547,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T19:43:37Z",
-            "open_issues": 289,
+            "last_commit": "2026-10-23T16:22:18Z",
+            "open_issues": 291,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11921,
+            "stars": 11927,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -739,10 +739,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-11-03T16:02:52Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9263,
+            "stars": 9264,
             "topics": [
               "ascii-art",
               "braille",
@@ -797,7 +797,7 @@
             "open_issues": 303,
             "owner": "iTowns",
             "repo": "itowns",
-            "stars": 1273,
+            "stars": 1274,
             "topics": [
               "3d",
               "gis",
@@ -918,11 +918,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:40:05Z",
+            "last_commit": "2026-10-23T07:44:12Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "cartography",
               "geospatial",
@@ -1108,11 +1108,11 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:19:28Z",
+            "last_commit": "2026-10-23T14:04:10Z",
             "open_issues": 95,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2658,
+            "stars": 2660,
             "topics": [
               "cartography",
               "geo",
@@ -1323,11 +1323,11 @@
             "id": 419152443,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T08:32:45Z",
+            "last_commit": "2026-10-23T09:49:00Z",
             "open_issues": 116,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "maps",
               "openstreetmap",
@@ -1354,7 +1354,7 @@
             "open_issues": 138,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "openstreetmap",
               "vector-tiles"
@@ -1399,7 +1399,7 @@
             "open_issues": 17,
             "owner": "mapbox",
             "repo": "mbutil",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "satellite"
             ]
@@ -1932,11 +1932,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T21:43:45Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-23T20:50:15Z",
+            "open_issues": 38,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 4016,
+            "stars": 4018,
             "topics": [
               "hacktoberfest",
               "leaflet",
@@ -1969,8 +1969,8 @@
             "id": 52776929,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T17:49:40Z",
-            "open_issues": 268,
+            "last_commit": "2026-10-23T21:18:16Z",
+            "open_issues": 267,
             "owner": "maptiler",
             "repo": "tileserver-gl",
             "stars": 2911,
@@ -2035,7 +2035,7 @@
             "open_issues": 42,
             "owner": "CrunchyData",
             "repo": "pg_tileserv",
-            "stars": 1065,
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -2056,7 +2056,7 @@
             "open_issues": 22,
             "owner": "consbio",
             "repo": "mbtileserver",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "go",
               "mbtiles",
@@ -2538,7 +2538,7 @@
             "id": 1263087729,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T14:35:04Z",
+            "last_commit": "2026-10-23T12:33:36Z",
             "open_issues": 0,
             "owner": "maptoolkit",
             "repo": "maptoolkit.org",
@@ -2616,7 +2616,7 @@
             "id": 375317258,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T22:25:06Z",
+            "last_commit": "2026-10-23T14:16:42Z",
             "open_issues": 15,
             "owner": "dechristopher",
             "repo": "lod",
@@ -2844,7 +2844,7 @@
             "open_issues": 138,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "openstreetmap",
               "vector-tiles"
@@ -2917,7 +2917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:51:10.535Z",
+    "last_updated": "2026-10-23T21:34:40.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
@@ -2929,7 +2929,7 @@
       "open_issues": 3,
       "owner": "mapbox",
       "repo": "awesome-vector-tiles",
-      "stars": 2632,
+      "stars": 2633,
       "topics": []
     },
     "original_repository_sha": "6eefe5cd514bf103d71972f35fe6992aa2fecf68",
