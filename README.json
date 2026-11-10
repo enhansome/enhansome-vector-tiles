@@ -40,7 +40,7 @@
             "open_issues": 17,
             "owner": "paulmach",
             "repo": "orb",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "2d",
               "geo",
@@ -112,7 +112,7 @@
             "open_issues": 8,
             "owner": "mapbox",
             "repo": "vector-tile-js",
-            "stars": 404,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -520,11 +520,11 @@
             "id": 8629417,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T13:56:12Z",
+            "last_commit": "2026-11-10T12:16:26Z",
             "open_issues": 1461,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12472,
+            "stars": 12477,
             "topics": [
               "3d",
               "javascript",
@@ -547,11 +547,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T21:52:22Z",
-            "open_issues": 305,
+            "last_commit": "2026-11-10T23:14:32Z",
+            "open_issues": 301,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 12050,
+            "stars": 12062,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -742,7 +742,7 @@
             "open_issues": 56,
             "owner": "rastapasta",
             "repo": "mapscii",
-            "stars": 9274,
+            "stars": 9279,
             "topics": [
               "ascii-art",
               "braille",
@@ -793,11 +793,11 @@
             "id": 43068275,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T13:59:07Z",
-            "open_issues": 303,
+            "last_commit": "2026-11-10T14:02:22Z",
+            "open_issues": 302,
             "owner": "iTowns",
             "repo": "itowns",
-            "stars": 1279,
+            "stars": 1280,
             "topics": [
               "3d",
               "gis",
@@ -901,7 +901,7 @@
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 193,
+            "stars": 204,
             "topics": [
               "cartography",
               "geospatial",
@@ -1108,11 +1108,11 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T13:59:29Z",
+            "last_commit": "2026-11-10T13:58:58Z",
             "open_issues": 92,
             "owner": "maplibre",
             "repo": "maputnik",
-            "stars": 2669,
+            "stars": 2670,
             "topics": [
               "cartography",
               "geo",
@@ -1166,7 +1166,7 @@
             "open_issues": 112,
             "owner": "kosmtik",
             "repo": "kosmtik",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "cartocss",
               "javascript",
@@ -1323,11 +1323,11 @@
             "id": 419152443,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T00:04:42Z",
-            "open_issues": 111,
+            "last_commit": "2026-11-10T14:29:41Z",
+            "open_issues": 113,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2246,
+            "stars": 2247,
             "topics": [
               "maps",
               "openstreetmap",
@@ -1354,7 +1354,7 @@
             "open_issues": 167,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1915,
+            "stars": 1916,
             "topics": [
               "openstreetmap",
               "vector-tiles"
@@ -1378,7 +1378,7 @@
             "open_issues": 173,
             "owner": "felt",
             "repo": "tippecanoe",
-            "stars": 1628,
+            "stars": 1629,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -1583,6 +1583,35 @@
         },
         {
           "node_type": "item",
+          "title": "manby",
+          "description": "Builds the same vector tiles as tippecanoe, with its options, 8 to 18 times faster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Builds vector tilesets from geographic features, like tippecanoe, several times faster",
+            "homepage": "https://birkskyum.github.io/manby/",
+            "id": 1447554327,
+            "language": "Rust",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-11-10T23:13:58Z",
+            "open_issues": 1,
+            "owner": "birkskyum",
+            "repo": "manby",
+            "stars": 53,
+            "topics": [
+              "geojson",
+              "gis",
+              "mbtiles",
+              "pmtiles",
+              "rust",
+              "tippecanoe",
+              "vector-tiles"
+            ]
+          },
+          "first_seen": "2026-11-06T23:24:25.435Z"
+        },
+        {
+          "node_type": "item",
           "title": "tiler @thomersch",
           "description": "Command line tool to convert GeoJSON to Vector Tiles (written in Go language).",
           "children": [],
@@ -1607,35 +1636,6 @@
             ]
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "manby",
-          "description": "Builds the same vector tiles as tippecanoe, with its options, 8 to 18 times faster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Builds vector tilesets from geographic features, like tippecanoe, several times faster",
-            "homepage": "https://birkskyum.github.io/manby/",
-            "id": 1447554327,
-            "language": "Rust",
-            "license": "BSD-2-Clause",
-            "last_commit": "2026-11-09T23:15:52Z",
-            "open_issues": 0,
-            "owner": "birkskyum",
-            "repo": "manby",
-            "stars": 50,
-            "topics": [
-              "geojson",
-              "gis",
-              "mbtiles",
-              "pmtiles",
-              "rust",
-              "tippecanoe",
-              "vector-tiles"
-            ]
-          },
-          "first_seen": "2026-11-06T23:24:25.435Z"
         },
         {
           "node_type": "item",
@@ -1773,7 +1773,7 @@
             "id": 1174884425,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-07T09:43:33Z",
+            "last_commit": "2026-11-10T17:06:33Z",
             "open_issues": 0,
             "owner": "muimsd",
             "repo": "tilefeed",
@@ -1871,7 +1871,7 @@
             "open_issues": 248,
             "owner": "mapbox",
             "repo": "mapbox-gl-draw",
-            "stars": 1093,
+            "stars": 1095,
             "topics": [
               "drawing",
               "javascript",
@@ -1893,7 +1893,7 @@
             "id": 937531039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T16:46:42Z",
+            "last_commit": "2026-11-10T07:47:45Z",
             "open_issues": 0,
             "owner": "muimsd",
             "repo": "map-gl-offline",
@@ -1963,11 +1963,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T12:21:12Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-10T17:27:46Z",
+            "open_issues": 27,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 4065,
+            "stars": 4069,
             "topics": [
               "leaflet",
               "mapbox-gl",
@@ -2003,7 +2003,7 @@
             "open_issues": 269,
             "owner": "maptiler",
             "repo": "tileserver-gl",
-            "stars": 2919,
+            "stars": 2922,
             "topics": [
               "docker",
               "gl-styles",
@@ -2223,11 +2223,11 @@
             "id": 1188344746,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T01:39:07Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-10T23:36:29Z",
+            "open_issues": 57,
             "owner": "geolens-io",
             "repo": "geolens",
-            "stars": 293,
+            "stars": 295,
             "topics": [
               "cloud-optimized-geotiff",
               "data-catalog",
@@ -2529,7 +2529,7 @@
             "id": 690617644,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-28T01:09:48Z",
+            "last_commit": "2026-11-10T11:26:43Z",
             "open_issues": 0,
             "owner": "mvt-proj",
             "repo": "mvt-rs",
@@ -2916,7 +2916,7 @@
             "open_issues": 167,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1915,
+            "stars": 1916,
             "topics": [
               "openstreetmap",
               "vector-tiles"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:43:16.814Z",
+    "last_updated": "2026-11-10T23:38:40.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
