@@ -37,7 +37,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-01T16:12:34Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "paulmach",
             "repo": "orb",
             "stars": 1144,
@@ -91,7 +91,7 @@
             "open_issues": 104,
             "owner": "mapnik",
             "repo": "node-mapnik",
-            "stars": 545,
+            "stars": 544,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -520,11 +520,11 @@
             "id": 8629417,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T15:19:03Z",
+            "last_commit": "2026-11-17T13:36:40Z",
             "open_issues": 1463,
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12497,
+            "stars": 12496,
             "topics": [
               "3d",
               "javascript",
@@ -547,11 +547,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T22:07:16Z",
-            "open_issues": 296,
+            "last_commit": "2026-11-17T20:25:49Z",
+            "open_issues": 299,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 12105,
+            "stars": 12118,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -692,7 +692,7 @@
             "open_issues": 121,
             "owner": "mousebird-consulting-inc",
             "repo": "WhirlyGlobe",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "android",
               "geodesy",
@@ -793,8 +793,8 @@
             "id": 43068275,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T14:02:22Z",
-            "open_issues": 304,
+            "last_commit": "2026-11-17T15:37:27Z",
+            "open_issues": 302,
             "owner": "iTowns",
             "repo": "itowns",
             "stars": 1281,
@@ -866,27 +866,6 @@
         },
         {
           "node_type": "item",
-          "title": "AliFlux VectorTileRenderer",
-          "description": "A highly customizable vector tile renderer built using C# for .Net platform. Comes with bindings for Mapsui and Gmap.Net components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive Vector Map Tile Renderer for .Net/C#",
-            "homepage": null,
-            "id": 129521660,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2022-06-22T16:12:00Z",
-            "open_issues": 20,
-            "owner": "AliFlux",
-            "repo": "VectorTileRenderer",
-            "stars": 210,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:50:20.505Z"
-        },
-        {
-          "node_type": "item",
           "title": "ImmersiveMap",
           "description": "A Metal-rendered Mapbox Vector Tile map engine for SwiftUI with a 3D globe and flat map, for iOS and macOS.",
           "children": [],
@@ -897,11 +876,11 @@
             "id": 1249253355,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:57:07Z",
+            "last_commit": "2026-11-17T13:55:46Z",
             "open_issues": 0,
             "owner": "artembobkin",
             "repo": "ImmersiveMap",
-            "stars": 209,
+            "stars": 211,
             "topics": [
               "cartography",
               "geospatial",
@@ -924,6 +903,27 @@
               "swiftui",
               "vector-tiles"
             ]
+          },
+          "first_seen": "2026-08-29T01:50:20.505Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AliFlux VectorTileRenderer",
+          "description": "A highly customizable vector tile renderer built using C# for .Net platform. Comes with bindings for Mapsui and Gmap.Net components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A comprehensive Vector Map Tile Renderer for .Net/C#",
+            "homepage": null,
+            "id": 129521660,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2022-06-22T16:12:00Z",
+            "open_issues": 20,
+            "owner": "AliFlux",
+            "repo": "VectorTileRenderer",
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
         },
@@ -1108,7 +1108,7 @@
             "id": 67726921,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:05:18Z",
+            "last_commit": "2026-11-17T14:03:40Z",
             "open_issues": 92,
             "owner": "maplibre",
             "repo": "maputnik",
@@ -1145,7 +1145,7 @@
             "open_issues": 267,
             "owner": "mapbox",
             "repo": "mapbox-studio-classic",
-            "stars": 1139,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-29T01:50:20.505Z"
@@ -1323,11 +1323,11 @@
             "id": 419152443,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T16:35:53Z",
+            "last_commit": "2026-11-17T12:56:59Z",
             "open_issues": 109,
             "owner": "onthegomap",
             "repo": "planetiler",
-            "stars": 2258,
+            "stars": 2260,
             "topics": [
               "maps",
               "openstreetmap",
@@ -1354,7 +1354,7 @@
             "open_issues": 180,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "openstreetmap",
               "vector-tiles"
@@ -1897,7 +1897,7 @@
             "open_issues": 0,
             "owner": "muimsd",
             "repo": "map-gl-offline",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "gis",
               "mapbox-gl",
@@ -1963,11 +1963,11 @@
             "id": 105363726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T00:56:17Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-17T21:42:53Z",
+            "open_issues": 49,
             "owner": "maplibre",
             "repo": "martin",
-            "stars": 4080,
+            "stars": 4084,
             "topics": [
               "leaflet",
               "mapbox-gl",
@@ -2223,11 +2223,11 @@
             "id": 1188344746,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T01:42:33Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-18T01:03:31Z",
+            "open_issues": 69,
             "owner": "geolens-io",
             "repo": "geolens",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "cloud-optimized-geotiff",
               "data-catalog",
@@ -2916,7 +2916,7 @@
             "open_issues": 180,
             "owner": "systemed",
             "repo": "tilemaker",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "openstreetmap",
               "vector-tiles"
@@ -2989,7 +2989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:57:52.330Z",
+    "last_updated": "2026-11-18T01:10:46.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome implementations of the Mapbox Vector Tile specification",
